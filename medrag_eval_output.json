@@ -1,0 +1,1402 @@
+[
+  {
+    "question": "A 32-year-old pregnant woman presents to her physician with flu-like symptoms for the past 3 days. She has a runny nose, mild headache, and feels achy. She has a mild fever and diffuse rash over her body. She is concerned about the health of her baby and wants to know if there are any medications that will make her feel better in a short time. Currently, she is at her 29th week of gestation and has received the tetanus vaccination as part of the antenatal care program she received since she immigrated at the end of her first trimester from Romania. She is otherwise healthy. Considering this patient, she is at a higher risk of giving birth to a newborn who will present with which of the following options?",
+    "options": {
+      "A": "Single S2",
+      "B": "Wide pulse pressure",
+      "C": "Brachial-femoral delay",
+      "D": "Double split S2",
+      "E": "Tricuspid valve regurgitation"
+    },
+    "ground_truth": "B",
+    "model_answer": "I don't know the answer.",
+    "final_choice": null,
+    "is_correct": false
+  },
+  {
+    "question": "A 54-year-old man presents with the acute onset of seizures and hallucinations. The patient\u2019s wife says that he had been on a camping trip a few months earlier to study bats but otherwise has not traveled recently. Past medical history is significant for hypertension, managed medically with hydralazine and enalapril. The patient\u2019s condition rapidly deteriorates, and he passes away. An autopsy is performed and a histologic stained section of the brain is shown in the image. Which of the following receptors are targeted by the pathogen most likely responsible for this patient\u2019s condition?",
+    "options": {
+      "A": "CCR5",
+      "B": "CD21",
+      "C": "Acetylcholine receptor",
+      "D": "ICAM-1",
+      "E": "GABA"
+    },
+    "ground_truth": "C",
+    "model_answer": "I don't know.",
+    "final_choice": null,
+    "is_correct": false
+  },
+  {
+    "question": "A 51-year-old Asian woman presents to her primary care provider with abdominal pain. On examination, she is found to have rebound tenderness in the lower right quadrant of her abdomen. Further workup suggests ovarian cancer, which is confirmed later in the week to be stage 4 with confirmed distant metastases in the lungs and brain. Which of the following routes describes the most likely lymphatic route for this malignancy to have metastasized to the brain?",
+    "options": {
+      "A": "Sentinel node - left lumbar trunk - cisterna chyli - right bronchomediastinal trunk - right lymphatic duct - right subclavian vein - systemic circulation",
+      "B": "Sentinel node - left lumbar trunk - cisterna chyli - thoracic duct - left subclavian vein - systemic circulation",
+      "C": "Sentinel node - right lumbar trunk - cisterna chyli - right bronchomediastinal trunk - right lymphatic duct - right subclavian vein - systemic circulation",
+      "D": "Sentinel node - right lumbar trunk - cisterna chyli - thoracic duct - right subclavian vein - systemic circulation",
+      "E": "Sentinel node - right lumbar trunk - cisterna chyli - thoracic duct - left subclavian vein - systemic circulation"
+    },
+    "ground_truth": "E",
+    "model_answer": "The lymphatic system is a network of tissues and organs that help rid the body of toxins, waste and other unwanted materials. The primary function of the lymphatic system is to transport lymph, a fluid containing infection-fighting white blood cells, throughout the body. In the context provided, the ovarian cancer has metastasized to the brain via the lymphatic system. The most likely route for this would be from the sentinel node (the first lymph node to which cancer cells are most likely to spread from a primary tumor) to the right or left lumbar trunk, then to the cisterna chyli (a dilated sac at the lower end of the thoracic duct into which lymph from the intestinal trunk and two lumbar lymphatic trunks flow), then to the thoracic duct (the main vessel of the lymphatic system, running up through the body and emptying into the left subclavian vein), and finally into the systemic circulation.\n\nFinal Answer: B. Sentinel node - left lumbar trunk - cisterna chyli - thoracic duct - left subclavian vein - systemic circulation",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 53-year-old man comes to the physician for a follow-up appointment three days after being prescribed a selective alpha-1 agonist. He reports improvement in his symptoms and has not experienced any adverse effects. This drug was most likely prescribed for which of the following conditions?",
+    "options": {
+      "A": "Bronchospasm due to bronchial asthma",
+      "B": "Bilateral hand tremors of indeterminate etiology",
+      "C": "Urinary hesitancy due to benign prostatic hyperplasia",
+      "D": "Nasal congestion due to a viral infection",
+      "E": "Blood pressure management prior to pheochromocytoma excision"
+    },
+    "ground_truth": "D",
+    "model_answer": "The context mentions that alpha-adrenergic blockers are effective in treating lower urinary tract symptoms in men with prostatic hypertrophy. This suggests that a selective alpha-1 agonist, which would have the opposite effect of a blocker, would not be used for this condition. Therefore, option C is unlikely. The context also mentions that alpha-blockers are used in the management of patients with pheochromocytoma, which suggests that an alpha-agonist would not be used for this condition, making option E unlikely. Alpha-1 agonists are typically used to constrict blood vessels in the nasal passages, which can help relieve nasal congestion. Therefore, option D seems the most likely.\n\nFinal Answer: D.",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 55-year-old man with a history of chronic glomerulonephritis due to IgA nephropathy presents to your office with bone pain. Which of the following laboratory findings would you most expect upon analysis of this patient's serum?",
+    "options": {
+      "A": "Increased PTH, decreased calcium, increased phosphate, decreased calcitriol",
+      "B": "Decreased PTH, increased calcium, increased phosphate, increased calcitriol",
+      "C": "Increased PTH, increased calcium, decreased phosphate, decreased calcitriol",
+      "D": "Decreased PTH, decreased calcium, increased phosphate, decreased calcitriol",
+      "E": "Normal PTH, normal calcium, normal phosphate, normal calcitriol"
+    },
+    "ground_truth": "A",
+    "model_answer": "The patient's history of chronic glomerulonephritis due to IgA nephropathy suggests chronic kidney disease (CKD). In CKD, the kidneys are unable to properly excrete phosphate, leading to hyperphosphatemia. This, in turn, inhibits the conversion of 25-hydroxyvitamin D to 1,25-dihydroxyvitamin D (calcitriol) in the kidneys, leading to decreased calcitriol levels. Decreased calcitriol and hyperphosphatemia both suppress the absorption of calcium in the gut, leading to hypocalcemia. The parathyroid glands respond to hypocalcemia by increasing the secretion of parathyroid hormone (PTH), leading to secondary hyperparathyroidism. Therefore, the expected laboratory findings in this patient would be increased PTH, decreased calcium, increased phosphate, and decreased calcitriol.\n\nFinal Answer: A. Increased PTH, decreased calcium, increased phosphate, decreased calcitriol",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 50-year-old man visits his physician after 20 years of not seeking any medical care. He is concerned about his health after a colleague recently had a heart attack. The patient has no active complaints and says he feels healthy; however, he does not exercise regularly and lives a sedentary lifestyle. He is employed as an administrative position at a local college, and is seated at a desk most of the day. His father had a heart attack at age 54 and his mother is still alive with no health concerns. He does not smoke, only drinks socially, and does not use drugs. Today, his blood pressure is 130/90 mm Hg, pulse is 84/min, and respiratory rate is 14/min. Physical examination reveals an obese male with no significant findings. An ECG shows no abnormalities, and laboratory testing shows the following:\nLaboratory test\nSerum glucose (fasting)  105 mg/dL\nSerum electrolytes \nSodium  142 mEq/L\nPotassium 3.9 mEq/L\nChloride 101 mEq/L\nSerum creatinine 0.8 mg/dl\nBlood urea nitrogen 10 mg/dl\nCholesterol, total 250 mg/dL\nHDL-cholesterol 35 mg/dL\nLDL-cholesterol 186 mg/dL\nTriglycerides 170 mg/dL\nUrinalysis \nGlucose  negative\nKetones negative\nLeucocytes negative\nNitrites negative \nRed blood cells (RBC) negative \nCasts negative \nWhich of the following lab abnormalities in this patient is an indication for treatment?",
+    "options": {
+      "A": "Blood pressure reading",
+      "B": "Patient\u2019s weight",
+      "C": "High triglyceride levels",
+      "D": "High LDL-cholesterol",
+      "E": "Serum glucose level"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's blood pressure reading is slightly elevated, but not to a level that would require immediate treatment. His weight is a concern, but it is not a lab abnormality. His triglyceride levels are elevated, but not to a level that would require immediate treatment. His fasting glucose level is slightly elevated, indicating a possible risk for diabetes, but it is not at a level that would require immediate treatment. However, his LDL-cholesterol level is significantly elevated. High levels of LDL-cholesterol can lead to a buildup of cholesterol in the arteries, increasing the risk of heart disease and stroke. Therefore, this would be an indication for treatment.\n\nFinal Answer: D.",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 14-year-old boy is brought to the physician because of an increasing difficulty in hearing over the past several months. His mother says they have to speak at a higher volume for him to understand them. He also complains of having difficulty reading his favorite books because he is not able to see the words clearly. His father received a renal transplant in his 20s. The vital signs are within normal limits. The physical examination shows no abnormalities. Laboratory studies show:\nSerum\nUrea nitrogen 15 mg/dL\nCreatinine 1.0 mg/dL\nUrine\nBlood 1+\nProtein 1+\nRBC 15\u201317/hpf\nWBC 1\u20132/hpf\nThe audiometry shows bilateral high-frequency sensorineural hearing loss. The ophthalmologic examination shows anterior lenticonus. Which of the following best explains these findings?",
+    "options": {
+      "A": "Alport syndrome",
+      "B": "Fabry\u2019s disease",
+      "C": "Fanconi syndrome",
+      "D": "Von Hippel-Lindau disease",
+      "E": "Tuberous sclerosis"
+    },
+    "ground_truth": "A",
+    "model_answer": "The boy's symptoms of hearing loss, visual difficulty, and the presence of blood and protein in his urine, along with the history of his father receiving a renal transplant in his 20s, suggest a genetic disorder affecting the kidneys, eyes, and ears. Alport syndrome is a genetic disorder characterized by glomerulonephritis, end-stage kidney disease, and hearing loss. Patients can also have eye abnormalities, including anterior lenticonus, which is the bulging of the lens of the eye, and this is a pathognomonic feature of Alport syndrome. The disease is caused by mutations in the genes encoding type IV collagen, which is a major component of the basement membranes in the kidney, ears, and eyes. Therefore, the symptoms presented by the boy are consistent with Alport syndrome.\n\nFinal Answer: A.",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 67-year-old man is brought to the emergency department with sudden onset of slurred speech. The patient\u2019s eldest daughter says that he couldn\u2019t move his arm during the episode. Past medical history is significant for hypertension and a hemorrhagic stroke 6 years ago, which was treated surgically. After admission, the patient gets increasingly worse and loses consciousness. A noncontrast CT of the head shows a subarachnoid hemorrhage (SAH). The patient is taken to the operating room, where the SAH evacuated, and the vessel is repaired. Postoperatively, the patient is unresponsive. Several days later, a repeat CT of the head shows an enlarging aneurysm in a different vessel in the brain. The patient\u2019s daughter is asked to consent to a non-emergent, life-saving operation since the patient is in a comatose state. She does not consent to the operation even though the physician stresses it would be life-saving. Upon further discussion, the physician finds out that the patient was abusive and neglectful to his children, and the daughter wants \u201cto live in peace.\u201d The patient has no written advanced directive. Which of the following is the most appropriate course of action?",
+    "options": {
+      "A": "Follow the daughter\u2019s wishes to withhold the operation",
+      "B": "Refer this case to the court",
+      "C": "Contact another family member for consent",
+      "D": "Perform the surgery without consent",
+      "E": "Report the daughter to the police"
+    },
+    "ground_truth": "C",
+    "model_answer": "Final Answer: B",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 45-year-old woman presents to the physician with a history of headache, palpitations, and episodic diaphoresis. She was diagnosed with hypertension in the past and is now regularly taking antihypertensive medication (amlodipine 10 mg once daily). She has had a diffuse thyroid swelling for the past 4 months. She complains of pain in the long bones of her arms and legs for the past 3 months. She is slightly built, appears thin, and is anxious and apprehensive. Her skin is moist and warm. Her weight is 45 kg (99.2 lb) and height is 146 cm (4 ft 7 in); BMI is 21.12 kg/m2. Her pulse is 116/min, the blood pressure is 196/102 mm Hg, the respiratory rate is 29/min, and the temperature is 37.2\u00b0C (99.0\u00b0F). Diffuse and firm thyromegaly is present. Her upper extremities exhibit fine tremors during an anxiety attack. The laboratory test results reveal elevated 24-hour urinary VMA and metanephrines. Serum epinephrine, calcitonin, and parathormone levels are also elevated. Hypercalcemia and hyperglycemia are also noted. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Von Hippel-Lindau syndrome",
+      "B": "Multiple endocrine neoplasia (MEN) 1",
+      "C": "Multiple endocrine neoplasia (MEN) 2A",
+      "D": "Multiple endocrine neoplasia (MEN) 2B",
+      "E": "Neurofibromatosis"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's presentation of hypertension, headache, palpitations, and episodic diaphoresis, along with the laboratory findings of elevated 24-hour urinary VMA and metanephrines, and serum epinephrine levels, suggest pheochromocytoma. The presence of diffuse thyromegaly along with symptoms of hyperthyroidism (anxiety, fine tremors, tachycardia, warm and moist skin) and the finding of hypercalcemia suggest hyperparathyroidism and thyroid medullary carcinoma. These three conditions - pheochromocytoma, hyperparathyroidism, and thyroid medullary carcinoma - are characteristic of Multiple Endocrine Neoplasia (MEN) 2A. Therefore, the most likely diagnosis is MEN 2A.\n\nFinal Answer: C. Multiple endocrine neoplasia (MEN) 2A",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A patient with a1-antitrypsin deficiency is warned by his physician that his increasing dyspnea may be worsened by his continued cigarette smoking. Which of the following factors, released by both neutrophils and alveolar macrophages, is responsible for the patient's condition?",
+    "options": {
+      "A": "Major Basic Protein",
+      "B": "Antibodies against alpha-3 segment of collagen IV (COL4A3)",
+      "C": "Mucus",
+      "D": "Surfactant",
+      "E": "Elastase"
+    },
+    "ground_truth": "E",
+    "model_answer": "\u03b11-Antitrypsin deficiency is a genetic disorder that can cause lung damage, specifically emphysema, even in the absence of cigarette use. This is due to the fact that a deficiency of \u03b11-Antitrypsin allows for increased elastase activity, which can destroy elastin in the alveolar walls of the lungs. Therefore, the factor responsible for the patient's condition is elastase.\n\nFinal Answer: E. Elastase",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 5-year-old boy is brought to his pediatrician due to sore throat and fever. He was in his usual state of health until 3 days ago when he began to complain of a sore throat as well as general malaise. The patient's past medical history reveals recurrent upper respiratory infections but no skin or soft tissue infections. The child had cardiac surgery as an infant but has otherwise been healthy. On presentation, his temperature is 100\u00b0F (37.8 \u00b0C), blood pressure is 115/72 mmHg, pulse is 65/min, and respirations are 22/min. Physical exam shows white plaques on the tongue and mouth. A scraping of this material reveals a characteristic morphology after being treated with KOH. Serum protein electrophoresis shows a normal distribution of bands from this patient. Which of the following findings would most likely be found in this patient?",
+    "options": {
+      "A": "Abnormal expression of autoimmune regulator (AIRE)",
+      "B": "Delayed separation of the umbilical cord",
+      "C": "Hypoparathyroidism",
+      "D": "Partial albinism",
+      "E": "Thrombocytopenic purpura"
+    },
+    "ground_truth": "C",
+    "model_answer": "None of the options provided seem to directly correlate with the symptoms and findings presented in the question. The symptoms described are indicative of a common oral yeast infection, often caused by Candida species, which is not directly associated with any of the conditions listed in the options. Therefore, I cannot provide a definitive answer based on the information given.\n\nFinal Answer: I don't know.",
+    "final_choice": null,
+    "is_correct": false
+  },
+  {
+    "question": "A 36-year-old man presents to his physician for a regular checkup, and he expresses an intent to quit smoking. He is a financial director with a 15-pack-year history of smoking who tried quitting several times. He tried different nicotine replacement products, none of which helped him. The patient has gastrointestinal reflux disease and takes omeprazole. The medical history is significant for a head trauma after which he had two seizure episodes. He does not have a history of any other disorders. Currently, he is not on any antiepileptic medication. He heard from his friend about an antidepressant that efficiently helps with smoking cessation. He would like to try this medication, and asks his physician for an advice. Which of the following statements regarding the use of the mentioned medication is correct?",
+    "options": {
+      "A": "Omeprazole interferes with bupropion metabolism and should be taken one hour prior to omeprazole consumption.",
+      "B": "Bupropion is only effective when used together with nicotine replacement products.",
+      "C": "Bupropion lowers the seizure threshold and it should not be taken by patients with a history of seizure disorder.",
+      "D": "The physician may prescribe bupropion for this patient only after a full cardiac workup is performed.",
+      "E": "This patient has no contraindications for bupropion and may safely use it."
+    },
+    "ground_truth": "C",
+    "model_answer": "Final Answer: C",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "The parents of a 16-year-old boy with type 1 diabetes mellitus present requesting information about the drug, exenatide, an injectable drug that only needs to be administered once a week. The patient\u2019s blood glucose levels have been difficult to control on his current insulin regimen due to poor adherence to recommended therapy, and he has had difficulty putting on weight despite eating copiously. The patient is afebrile and his vital signs are within normal limits. His body mass index (BMI) is 19 kg/m2. Which of the following best describes why the patient should not be switched to exenatide?",
+    "options": {
+      "A": "Insulin production by the pancreas is insufficient for exenatide to be effective.",
+      "B": "Exenatide suppresses glucagon secretion, which increases the risk of hypoglycemia.",
+      "C": "Suppression of appetite makes it even harder for him to gain weight.",
+      "D": "Exenatide is contraindicated in children below 18 years.",
+      "E": "Gastric emptying is inhibited by exenatide."
+    },
+    "ground_truth": "A",
+    "model_answer": "Final Answer: A.",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 52-year-old man with a history of gastric cancer that was treated with subtotal gastrectomy dies in a motor vehicle collision. At autopsy, examination of the spinal cord shows unilateral atrophy of the neurons in the area indicated by the arrow. Neurological examination of the patient when he was still alive would most likely have shown which of the following findings?",
+    "options": {
+      "A": "Decreased sense of temperature in the ipsilateral arm",
+      "B": "Decreased strength of the contralateral leg",
+      "C": "Decreased vibratory sense in the ipsilateral arm",
+      "D": "Decreased positional sense in the ipsilateral leg",
+      "E": "Decreased sense of crude touch in the contralateral arm"
+    },
+    "ground_truth": "D",
+    "model_answer": "The context provided discusses various neurological signs and symptoms that can occur with different types of spinal cord lesions. Unilateral atrophy of neurons in the spinal cord would likely affect the nerve fibers on the same side (ipsilateral) of the body. The spinothalamic tract, which carries sensations of temperature and crude touch, crosses to the opposite side of the body within one to two segments of entering the spinal cord. Therefore, a lesion in this area would cause decreased sense of temperature and crude touch on the opposite (contralateral) side of the body. The other options (B, C, D, and E) are incorrect because they involve motor function, vibratory sense, positional sense, and crude touch, respectively, which are not primarily carried by the spinothalamic tract.\n\nFinal Answer: A. Decreased sense of temperature in the ipsilateral arm",
+    "final_choice": "A",
+    "is_correct": false
+  },
+  {
+    "question": "A 3-month-old infant is brought to her pediatrician because she coughs and seems to have difficulty breathing while feeding. In addition, she seems to have less energy compared to other babies and appears listless throughout the day. She was born by cesarean section to a G1P1 woman with no prior medical history and had a normal APGAR score at birth. Her parents say that she has never been observed to turn blue. Physical exam reveals a high-pitched holosystolic murmur that is best heard at the lower left sternal border. The most likely cause of this patient's symptoms is associated with which of the following abnormalities?",
+    "options": {
+      "A": "22q11 deletion",
+      "B": "Deletion of genes on chromosome 7",
+      "C": "Lithium exposure in utero",
+      "D": "Maternal alcohol consumption",
+      "E": "Retinoic acid exposure in utero"
+    },
+    "ground_truth": "A",
+    "model_answer": "The infant's symptoms of coughing and difficulty breathing during feeding, decreased energy, and a holosystolic murmur heard at the lower left sternal border suggest a congenital heart defect. The murmur described is characteristic of a ventricular septal defect (VSD), the most common congenital heart defect. VSDs can occur as isolated defects or as part of a syndrome. The patient's symptoms do not suggest a syndrome, so the VSD is likely isolated. Isolated VSDs are usually sporadic, but can also be associated with maternal alcohol consumption, which is known to cause a variety of birth defects, including VSDs. \n\nFinal Answer: D. Maternal alcohol consumption.",
+    "final_choice": "D",
+    "is_correct": false
+  },
+  {
+    "question": "A 35-year-old woman presents with severe fear reactions to seeing dogs after moving into a new suburban neighborhood. She states that she has always had an irrational and excessive fear of dogs but has been able to avoid it for most of her life while living in the city. When she sees her neighbors walking their dogs outside, she is terrified and begins to feel short of breath. Recently, she has stopped picking up her children from the bus stop and no longer plays outside with her children in order to avoid seeing any dogs. Which of the following would be the best definitive treatment for this patient?",
+    "options": {
+      "A": "Selective serotonin reuptake inhibitors (SSRIs)",
+      "B": "Short-acting benzodiazepines",
+      "C": "Systematic desensitization",
+      "D": "Cognitive behavioral therapy",
+      "E": "Dialectical behavioral therapy"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's symptoms are consistent with a specific phobia, which is an excessive or irrational fear of a specific object, place, or situation that leads to avoidance behavior. Cognitive-behavioral therapy (CBT) is the treatment of choice for specific phobias. CBT for specific phobias often involves exposure therapy, where the patient is gradually and repeatedly exposed to the feared object or situation in a controlled setting until the fear response is extinguished. Therefore, the best definitive treatment for this patient would be cognitive behavioral therapy.\n\nFinal Answer: D.",
+    "final_choice": "D",
+    "is_correct": false
+  },
+  {
+    "question": "A 32-year-old woman comes to the physician because of fatigue and joint pain for the past 4 months. Examination shows erythema with scaling on both cheeks that spares the nasolabial folds and two 1-cm ulcers in the oral cavity. Further evaluation of this patient is most likely to show which of the following findings?",
+    "options": {
+      "A": "Decreased lymphocyte count",
+      "B": "Increased platelet count",
+      "C": "Increased complement component 3",
+      "D": "Increased prothrombin time",
+      "E": "Decreased gamma globulin"
+    },
+    "ground_truth": "A",
+    "model_answer": "The patient's symptoms of fatigue, joint pain, facial rash that spares the nasolabial folds, and oral ulcers are suggestive of systemic lupus erythematosus (SLE). SLE is an autoimmune disease that can affect multiple organ systems. It is characterized by the production of autoantibodies, including antinuclear antibodies (ANA), anti-double-stranded DNA (anti-dsDNA), and anti-Smith (anti-Sm) antibodies. These autoantibodies form immune complexes with antigens, which can deposit in various tissues and cause inflammation. Complement proteins, including complement component 3 (C3), are consumed in the process of clearing these immune complexes. Therefore, patients with SLE often have low levels of complement proteins.\n\nFinal Answer: C. Increased complement component 3",
+    "final_choice": "C",
+    "is_correct": false
+  },
+  {
+    "question": "Current recommendations state that a single hemoglobin A1c value of greater than 6.5% is diagnostic of diabetes mellitus. If this 6.5% cut-off is to be increased to 7.0%, which of the following would be true?",
+    "options": {
+      "A": "Increase in false negative test results",
+      "B": "Increase in false positive test results",
+      "C": "Decrease in true negative test results",
+      "D": "Increase in true positive test results",
+      "E": "Decrease in test specificity"
+    },
+    "ground_truth": "A",
+    "model_answer": "Raising the cut-off value for the diagnosis of diabetes mellitus from 6.5% to 7.0% would mean that fewer people would be diagnosed with diabetes. This would result in an increase in false negative results, as individuals who actually have diabetes (based on the original cut-off of 6.5%) would not be diagnosed under the new cut-off of 7.0%. \n\nFinal Answer: A. Increase in false negative test results",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 2-month-old girl is brought to the pediatrician by her concerned father. He states that ever since her uncomplicated delivery she has failed to gain weight, has had chronic diarrhea, and has had multiple bacterial and viral infections. During the course of the workup, an absent thymic shadow is noted and a lymph node biopsy demonstrates the absence of germinal centers. Which of the following is the most likely cause of this patient's symptoms?",
+    "options": {
+      "A": "Defect in WASP gene",
+      "B": "Defect in ATM gene",
+      "C": "Adenosine deaminase deficiency",
+      "D": "NADPH oxidase deficiency",
+      "E": "Defect in BTK gene"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's failure to thrive, chronic diarrhea, recurrent infections, absent thymic shadow, and absence of germinal centers on lymph node biopsy suggest a diagnosis of severe combined immunodeficiency (SCID). SCID is characterized by a paucity of T cells and, often, B cells. The most common form of SCID is X-linked and due to a defect in the common gamma chain, a component of several interleukin receptors. However, another form of SCID is due to adenosine deaminase (ADA) deficiency. ADA is necessary for the breakdown of purines. Without it, deoxyadenosine accumulates and is toxic to lymphocytes. Therefore, the most likely cause of this patient's symptoms is a deficiency in adenosine deaminase.\n\nFinal Answer: C. Adenosine deaminase deficiency.",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 2-year-old boy is brought to the physician because of decreased appetite and abdominal pain for the last several weeks. Physical examination shows a well-appearing toddler with a palpable left-sided abdominal mass that does not cross the midline. A CT of the abdomen shows a large, necrotic tumor on the left kidney. Histological examination of the kidney mass shows primitive blastemal cells and immature tubules and glomeruli. This tissue is most likely derived from the same embryological structure as which of the following?",
+    "options": {
+      "A": "Carotid body",
+      "B": "Adrenal medulla",
+      "C": "Thyroid gland",
+      "D": "Papillary muscles",
+      "E": "Anterior pituitary\n\""
+    },
+    "ground_truth": "D",
+    "model_answer": "The described findings of a large, necrotic tumor on the left kidney in a young child, with histological examination showing primitive blastemal cells and immature tubules and glomeruli, are characteristic of Wilms tumor (nephroblastoma). This is a malignancy of the kidney that typically occurs in children. The tumor arises from nephrogenic rests, which are remnants of primitive kidney tissue (metanephros). The metanephros gives rise to the definitive kidney and its collecting system. None of the options listed in A-E are derived from the metanephros. However, the closest related structure would be the adrenal medulla, as it is also a component of the urogenital system, which includes the kidneys. \n\nFinal Answer: B. Adrenal medulla.",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 40-year-old man is referred to an optometrist. He complains of mild vision impairment over the last 6 months. His vision has continued to slowly deteriorate and his condition is now affecting his night driving. Past medical history is significant for well-controlled schizophrenia. He takes a low-potency typical antipsychotics and a multivitamin every day. He has been compliant with his medication and has regular follow-up visits. What is the best first step in the management of this patient\u2019s symptoms?",
+    "options": {
+      "A": "Decrease medication dosage",
+      "B": "Reassurance",
+      "C": "Ocular examination under anesthesia",
+      "D": "Refer to ophthalmologist",
+      "E": "Slit-lamp examination"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's symptoms of slowly progressive vision impairment, particularly affecting night driving, are concerning for a potential ocular pathology. Given that the patient is already seeing an optometrist, the best first step would be to conduct a thorough ocular examination. A slit-lamp examination is a common part of an ocular examination and can help identify a variety of eye conditions. Therefore, the best first step in the management of this patient's symptoms would be a slit-lamp examination.\n\nFinal Answer: E.",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 35-year-old woman presents to the emergency department after losing consciousness at work. On presentation, she is found to be somnolent though she is able to be woken by vocal stimuli. She says that over the last 12 hours, she has been experiencing muscle spasms, blurred vision, dry mouth, and hallucinations. She says that the symptoms started after she went on a hike in the woods and foraged from plants along the way. Physical exam reveals dry red skin and enlarged pupils. Her bladder is also found to be completely full though she says she is unable to urinate. Which of the following drugs would most likely be administered to this patient to treat her symptoms?",
+    "options": {
+      "A": "Atropine",
+      "B": "Physostigmine",
+      "C": "Pralidoxime",
+      "D": "Pyridostigmine",
+      "E": "Neostigmine"
+    },
+    "ground_truth": "B",
+    "model_answer": "The patient's symptoms of dry mouth, blurred vision, hallucinations, dry red skin, enlarged pupils, and urinary retention suggest anticholinergic toxicity, which can occur from ingestion of certain plants or medications. Anticholinergic toxicity can be remembered by the mnemonic \"hot as a hare, blind as a bat, dry as a bone, red as a beet, mad as a hatter, and full as a flask.\" Treatment involves discontinuation of the offending agent, supportive care, and in severe cases, administration of the antidote physostigmine, which is a reversible acetylcholinesterase inhibitor that increases the amount of acetylcholine available to compete with the anticholinergic agent at the receptor.\n\nFinal Answer: B. Physostigmine",
+    "final_choice": "B",
+    "is_correct": true
+  },
+  {
+    "question": "A 3-year-old boy is brought to the physician because of a 3-day history of fatigue and yellow discoloration of his skin. One week ago, he had an upper respiratory tract infection. Examination shows jaundice of the skin and conjunctivae. The spleen tip is palpated 2 cm below the left costal margin. His hemoglobin concentration is 9.4 g/dl and his mean corpuscular hemoglobin concentration is 39% Hb/cell. A Coombs test is negative. A peripheral blood smear is shown. This patient is at greatest risk for which of the following complications?",
+    "options": {
+      "A": "Malaria",
+      "B": "Acute myelogenous leukemia",
+      "C": "Cholecystitis",
+      "D": "Renal papillary necrosis",
+      "E": "Splenic sequestration crisis"
+    },
+    "ground_truth": "C",
+    "model_answer": "Final Answer: E. Splenic sequestration crisis",
+    "final_choice": "E",
+    "is_correct": false
+  },
+  {
+    "question": "A 65-year-old man with a longstanding history of poorly-controlled hypertension and no recent illness or cardiac disease presents to clinic complaining of chest pain that is worse on inspiration and relieved by sitting forward. Vital signs are stable. On exam, you detect a friction rub. Routine labs show K 7.5 and Cr 5.1. If this patient's clinical signs and laboratory findings are indicative of a chronic condition, what would be expected on urinary analysis?",
+    "options": {
+      "A": "Muddy brown granular casts",
+      "B": "Red blood cell casts",
+      "C": "White blood cell casts",
+      "D": "Fatty casts",
+      "E": "Broad and waxy casts"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's longstanding history of poorly-controlled hypertension, chest pain that is worse on inspiration and relieved by sitting forward, and the presence of a friction rub on exam are suggestive of pericarditis. However, the elevated potassium (K 7.5) and creatinine (Cr 5.1) levels are indicative of kidney dysfunction, likely chronic kidney disease (CKD) given the patient's history of hypertension. In CKD, the kidney's filtering units, the nephrons, are damaged and lose their ability to filter waste products and excess fluids from the blood effectively. This can result in the appearance of broad and waxy casts in the urine, which are indicative of severe, end-stage renal disease (ESRD). \n\nFinal Answer: E. Broad and waxy casts",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 59-year-old man presents to his primary care provider with fatigue, a progressively worsening cough with flecks of blood, shortness of breath, and dark urine. He reports feeling ill for the past 3 weeks. Past medical history is significant for hypertension and hyperlipidemia. He takes chlorthalidone and atorvastatin. Family history is noncontributory. He has smoked 20\u201330 cigarettes daily for the past 26 years. Anti-glomerular basement membrane serologies are positive. Which of the following is a specific feature for this patient\u2019s condition?",
+    "options": {
+      "A": "Granulomatous inflammation and necrotizing vasculitis",
+      "B": "Hypocomplementemia",
+      "C": "Positive cryoglobulins",
+      "D": "Linear IgG staining on immunofluorescence",
+      "E": "Longitudinal splitting and thickening of the glomerular basement membrane"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's symptoms of hemoptysis (coughing up blood) and dark urine (indicative of hematuria), along with positive anti-glomerular basement membrane (anti-GBM) serologies, suggest a diagnosis of Goodpasture syndrome. This is an autoimmune disease characterized by circulating antibodies against the alpha-3 chain of type IV collagen, which is found in the basement membranes of the kidneys and lungs. This leads to a rapidly progressive glomerulonephritis and pulmonary hemorrhage. On renal biopsy, linear IgG staining on immunofluorescence is seen due to the binding of anti-GBM antibodies along the glomerular and alveolar basement membranes.\n\nFinal Answer: D. Linear IgG staining on immunofluorescence",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 51-year-old man presents the emergency room with chest pain. He mentions that the pain started several hours ago and radiates to his left neck and shoulder. He also mentions that he has some difficulty in breathing. He says that he has had similar chest pains before, but nothing seemed to be wrong at that time. He was diagnosed with high cholesterol during that episode and was prescribed medication. He also has a 3-year history of gastritis. The blood pressure is 130/80 mm Hg, respirations are 18/min, and the pulse is 110/min. He seems a little anxious. The physical examination reveals no significant abnormalities. An ECG shows slight changes in the leads. His physician talks to him about the benefits of taking low-dose aspirin daily. Which of the following would be a contraindication to the use of aspirin in this patient?",
+    "options": {
+      "A": "ECG changes",
+      "B": "Hypercholesterolemia",
+      "C": "Gastritis",
+      "D": "Increased pulse rate",
+      "E": "Age above 50 years"
+    },
+    "ground_truth": "C",
+    "model_answer": "Final Answer: C",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A previously healthy 35-year-old primigravid woman at 12 weeks' gestation comes to the physician because of a fever, persistent headache, nausea, and abdominal discomfort for 1 week. During this time, she has also noticed that her gums bleed while brushing her teeth. A month ago, she returned from a camping trip to Sri Lanka. Her temperature is 39.3\u00b0C (102.8\u00b0F), pulse is 104/min, respirations are 24/min, and blood pressure is 135/88 mm Hg. Examination shows pallor and mild scleral icterus. There are a few scattered petechiae over the trunk and back. There is no lymphadenopathy. Physical and neurologic examinations show no other abnormalities. Test of the stool for occult blood is positive. Laboratory studies show:\nHemoglobin 8.2 g/dL\nLeukocyte count 10,000/mm3\nPlatelet count 18,000/mm3\nINR 1.0\nCoomb's test negative\nFibrin split products negative\nSerum\nUrea 20 mg/dL\nCreatinine 1.1 mg/dL\nBilirubin\nTotal 3.0 mg/dL\nDirect 0.8 mg/dL\nAlanine aminotransferase 20 U/L\nAspartate aminotransferase 16 U/L\nLactate dehydrogenase 900 U/L\nUrine\nProtein 1+\nWBCs occasional\nRBCs 50\u201360/hpf\nBacteria nil\nA photograph of the peripheral blood smear is shown. Blood and urine cultures are negative. Which of the following is the most likely diagnosis?\"",
+    "options": {
+      "A": "HELLP syndrome",
+      "B": "Dengue hemorrhagic fever",
+      "C": "Thrombotic thrombocytopenic purpura",
+      "D": "Hemolytic uremic syndrome",
+      "E": "Autoimmune hemolytic anemia\n\""
+    },
+    "ground_truth": "C",
+    "model_answer": "Final Answer: B",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 25-year-old female is brought to the emergency department by her family. They found her somnolent next to her computer and scattered pill bottles over two hours ago. The family cannot recall the types of pill bottles that they found and did not bring them to the ED. The patient's past medical history is notable for anxiety, obesity, hypertension, and polycystic ovarian syndrome. She is currently not on any medications other than an exercise program with which she is non-compliant. A physical exam is performed and is within normal limits. The patient begins communicating with the physician and states that she did take acetaminophen but it was only a few pills. Her temperature is 99.5\u00b0F (37.5\u00b0C), pulse is 82/min, blood pressure is 125/85 mmHg, respirations are 11/min, and oxygen saturation is 97% on room air. Which of the following is the next best step in management?",
+    "options": {
+      "A": "N-acetylcysteine",
+      "B": "Blood acetaminophen levels",
+      "C": "Charcoal",
+      "D": "IV fluids",
+      "E": "Syrup of ipecac"
+    },
+    "ground_truth": "A",
+    "model_answer": "The patient's history of pill ingestion, even though she claims it was only a few, raises the concern for a potential acetaminophen overdose. Acetaminophen overdose is a common cause of acute liver failure in the United States. The initial symptoms are nonspecific and may include nausea, vomiting, and malaise. In severe cases, it can progress to hepatic necrosis, acute liver failure, and death. The management of a potential acetaminophen overdose begins with obtaining a blood acetaminophen level. This level can be plotted on the Rumack-Matthew nomogram, which can help determine the risk of hepatotoxicity and guide the need for treatment with N-acetylcysteine. Therefore, the next best step in management is to obtain a blood acetaminophen level.\n\nFinal Answer: B. Blood acetaminophen levels.",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 37-year-old woman presents to your office with heartburn. Following an extensive workup, you diagnose her with a duodenal ulcer secondary to H. pylori infection. You prescribe triple therapy of omeprazole, clarithromycin, and amoxicillin. Which of the following best describes the mechanism of action of omeprazole?",
+    "options": {
+      "A": "SST2 receptor agonist",
+      "B": "Parasympathetic inhibition",
+      "C": "Reversible block of H2 receptors",
+      "D": "Inhibition of primary active transport",
+      "E": "Inhibition of 50S ribosomal subunit"
+    },
+    "ground_truth": "D",
+    "model_answer": "Omeprazole is a proton pump inhibitor (PPI). It works by inhibiting the gastric H+, K+-ATPase, which is the enzyme responsible for the final step in the production of gastric acid. This enzyme is also known as the proton pump and is found in the parietal cells of the stomach. By inhibiting this pump, omeprazole reduces the secretion of gastric acid. This mechanism of action is described as the inhibition of primary active transport.\n\nFinal Answer: D",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 7-year-old boy is brought to the physician by his mother for evaluation of progressively worsening swelling around the eyes. He has no history of major medical illness. He had a sore throat and cough 2 weeks ago that resolved spontaneously. Physical examination shows moderate periorbital edema and 2+ pitting edema of the lower extremities bilaterally. A kidney biopsy specimen shows effacement of the podocytes on electron microscopy. Which of the following is most likely to be found on urinalysis?",
+    "options": {
+      "A": "Hyaline casts and immunoglobulins",
+      "B": "Red blood cell casts and acanthocytes",
+      "C": "Fatty casts and albumin",
+      "D": "White blood cell casts and eosinophils",
+      "E": "Granular casts and tubular epithelial cells"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's history of a recent upper respiratory tract infection followed by the development of periorbital and lower extremity edema is suggestive of poststreptococcal glomerulonephritis (PSGN). PSGN is a type of glomerulonephritis, which is characterized by dysmorphic red blood cells or red blood cell casts in the urine. However, the question stem describes effacement of the podocytes on electron microscopy, which is more characteristic of minimal change disease (MCD). MCD is the most common cause of nephrotic syndrome in children and is characterized by heavy proteinuria (>3.5 g/24 h), hypoalbuminemia, edema, and hyperlipidemia. On urinalysis, MCD is likely to show proteinuria with albumin being the major protein, and fatty casts may be present due to the hyperlipidemia.\n\nFinal Answer: C. Fatty casts and albumin",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 22-year-old man is brought to the emergency department by police after he was found undressing himself outside in 110\u00b0F weather. The patient refuses to answer any questions as he suspects that his care team is spying on him. The patient recently started college and has presented to the emergency department once before for polysubstance intoxication. The patient attempts to assault a nurse, is restrained, and given diphenhydramine and haloperidol. When the patient is able to be examined, he is somnolent and non-responsive. His temperature is 104\u00b0F (40\u00b0C), blood pressure is 147/98 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air. He does not comply with any commands, and it is not possible to freely manipulate his extremities due to rigidity. His mucous membranes are dry. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Catatonic schizophrenia",
+      "B": "Heat stroke",
+      "C": "Malignant hyperthermia",
+      "D": "Neuroleptic malignant syndrome",
+      "E": "Oversedation"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's recent exposure to high environmental temperatures, altered mental status, and high body temperature suggest heat stroke. Heat stroke is a life-threatening condition characterized by a core body temperature >40\u00b0C (104\u00b0F) and central nervous system dysfunction (eg, delirium, seizures, coma) after exposure to high environmental temperatures. Other findings can include tachypnea, tachycardia, and hypotension. Dry skin is typically seen in classic heat stroke, which usually occurs in elderly individuals or those with chronic illness who lack adequate air conditioning in hot weather. However, this patient's agitation and delirium could have caused him to undress and sweat, thereby moistening his skin. The patient's polysubstance abuse could also contribute to his presentation as many substances (eg, amphetamines, cocaine, synthetic cannabinoids) can cause severe agitation, increased muscular activity, and anticholinergic effects (eg, dry mucous membranes), all of which can increase heat production and decrease heat dissipation.\n\nFinal Answer: B. Heat stroke",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 72-year-old man develops reduced urine output and a serum creatinine concentration of 2.9 mg/dL three days after being hospitalized for acute diverticulitis. On admission, a complete blood count showed a hemoglobin concentration of 15.5 g/dL and a leukocyte count of 14,000/mm3. Urinalysis showed 2+ proteinuria, and serum studies showed a blood glucose of 145 mg/dL and a creatinine concentration of 1.2 mg/dL. A CT scan of the abdomen confirmed the diagnosis. Therapy with intravenous ketoprofen, piperacillin, and tazobactam was begun, and the patient was placed on bowel rest. He has a history of hypertension, chronic constipation, and type 2 diabetes mellitus. Prior to admission, his medications were insulin, metoprolol, and losartan. Today, his temperature is 37.7\u00b0C (99.9\u00b0F), pulse is 97/min, respirations are 12/min, and blood pressure is 135/87 mm Hg. The abdomen is soft on physical examination, and there is tenderness to palpation of the left lower quadrant. The remainder of the examination shows no abnormalities. Which of the following is the most likely cause of this patient's current renal findings?",
+    "options": {
+      "A": "Gastrointestinal blood loss",
+      "B": "Adverse drug reaction",
+      "C": "Dehydration",
+      "D": "Contrast administration",
+      "E": "Chronic hypertension\n\""
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's new-onset renal insufficiency (creatinine increased from 1.2 to 2.9 mg/dL) and proteinuria in the setting of recent initiation of NSAID (ketoprofen) and antibiotic (piperacillin/tazobactam) therapy is suggestive of acute interstitial nephritis (AIN). AIN is a common cause of acute kidney injury and is most often due to an allergic reaction to a medication. The most common offending agents include antibiotics (eg, penicillins, cephalosporins, sulfonamides), NSAIDs, and proton pump inhibitors. Patients typically present with nonspecific symptoms (eg, fever, rash, arthralgias) 1-2 weeks after drug initiation. Urinalysis often shows white blood cells and white blood cell casts, and proteinuria is usually mild (<1 g/day). The diagnosis is confirmed by renal biopsy showing an interstitial infiltrate of lymphocytes and eosinophils, but biopsy is not typically performed unless the patient fails to improve after discontinuation of the offending agent. Management involves discontinuation of the offending drug and sometimes a short course of corticosteroids in severe cases.\n\nFinal Answer: B.",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 63-year-old man comes to the emergency department because of retrosternal chest pain. He describes it as 7 out of 10 in intensity. He has coronary artery disease, hypertension, and type 2 diabetes mellitus. His current medications are aspirin, simvastatin, metformin, and enalapril. He has smoked one pack of cigarettes daily for 33 years. On arrival, his pulse is 136/min and irregular, respirations are 20/min, and blood pressure is 85/55 mm Hg. The lungs are clear to auscultation. Cardiac examination shows no abnormalities. An ECG is shown. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Coronary angiogram",
+      "B": "Intravenous esmolol",
+      "C": "Intravenous amiodarone",
+      "D": "Synchronized cardioversion",
+      "E": "Defibrillation"
+    },
+    "ground_truth": "D",
+    "model_answer": "I'm sorry, but I can't provide the answer because the ECG results, which are crucial for making a decision, are not provided in the context.",
+    "final_choice": null,
+    "is_correct": false
+  },
+  {
+    "question": "A 65-year-old woman comes to the physician for a routine bone mineral density screening. She does not have any children. Menopause was at age 55. Her mother died of breast cancer at the age of 48 years. She has hypertension for which she takes ramipril. Dual-energy x-ray absorptiometry at the femoral neck shows a T-score of -2.7 SD. The physician considers treatment with raloxifene. This medication would put her at increased risk of developing which of the following conditions?",
+    "options": {
+      "A": "Pulmonary embolism",
+      "B": "Cellulitis",
+      "C": "Breast cancer",
+      "D": "Mandibular osteonecrosis",
+      "E": "Hypercholesterolemia"
+    },
+    "ground_truth": "A",
+    "model_answer": "Raloxifene is a selective estrogen receptor modulator (SERM) that is used in the prevention and treatment of osteoporosis in postmenopausal women. It has estrogenic effects on bone and anti-estrogenic effects on the uterus and breast. Raloxifene reduces the risk of vertebral fractures and has been shown to decrease the incidence of breast cancer. However, it increases the risk of venous thromboembolism, including deep vein thrombosis and pulmonary embolism. Therefore, the woman in the question would be at an increased risk of developing a pulmonary embolism if she were to start treatment with raloxifene.\n\nFinal Answer: A. Pulmonary embolism",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "An 8-year-old girl presents to her pediatrician with intensely pruritic lesions over her buttocks, as shown. These lesions occur intermittently but have worsened over time. Her medical history is remarkable for iron deficiency, for which she is on ferrous sulfate. The patient has also experienced intermittent episodes of mild diarrhea, previously diagnosed as lactose intolerance. Her height is at the 30th percentile and weight is at the 25th percentile for age and sex. An immunoglobulin A (IgA) tissue transglutaminase titer is 5 times the upper limit of normal. Which of the following is the most likely cause of this patient's condition?",
+    "options": {
+      "A": "Crohn\u2019s disease",
+      "B": "Giardiasis",
+      "C": "Celiac disease",
+      "D": "Common variable immune deficiency",
+      "E": "Henoch-Schonlein purpura"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's pruritic skin lesions, iron deficiency, failure to thrive (height and weight <50th percentile for age and sex), and diarrhea suggest malabsorption. The finding of a markedly elevated IgA tissue transglutaminase titer is diagnostic of celiac disease. Celiac disease is an immune-mediated disorder that occurs in genetically susceptible individuals. Ingestion of gluten, a protein found in wheat, barley, and rye, leads to an inflammatory response in the small bowel mucosa, resulting in villous atrophy and crypt hyperplasia. This damage leads to malabsorption of macro- and micronutrients. Dermatitis herpetiformis, an intensely pruritic, blistering skin rash that typically involves the extensor surfaces, is a specific manifestation of celiac disease. \n\nFinal Answer: C. Celiac disease",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 71-year-old woman comes to the physician for evaluation of a pigmented lesion on her left foot. She has had decreased appetite and a 6-kg (13-lb) weight loss in the past 2 months. Physical examination shows that on the left medial ankle there is a 2-cm reddish-black nodule with a verrucous surface. A full-thickness excisional biopsy of the lesion shows S100-protein-positive epithelioid cells. A subsequent CT scan of the chest, abdomen, and pelvis shows metastases to the liver; a diagnosis of metastatic melanoma is made. Chemotherapy with aldesleukin is initiated. Which of the following is the mechanism of action for this drug?",
+    "options": {
+      "A": "Stimulating release of acute-phase reactants",
+      "B": "Stimulating antigen-processing cells",
+      "C": "Inhibiting expression of MHC II and Th1 cytokines",
+      "D": "Activating natural killer cells and cytotoxic T cells",
+      "E": "Supporting growth of bone marrow stem cells"
+    },
+    "ground_truth": "D",
+    "model_answer": "Aldesleukin is a recombinant form of interleukin-2 (IL-2), a cytokine that stimulates the growth and differentiation of T cells, B cells, and natural killer cells. Therefore, the mechanism of action of aldesleukin is activating natural killer cells and cytotoxic T cells.\n\nFinal Answer: D",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A study is conducted to determine the most effective ways to prevent transmission of various infective agents. One of the agents studied is a picornavirus that preferentially infects hepatocytes. The investigator determines that inactivating this virus can prevent its spread. Which of the following disinfectants is most likely to inactivate this virus?",
+    "options": {
+      "A": "Benzalkonium chloride",
+      "B": "Chlorhexidine",
+      "C": "Sodium hypochlorite",
+      "D": "Sulfuric acid",
+      "E": "Ethyl alcohol"
+    },
+    "ground_truth": "C",
+    "model_answer": "Picornaviruses, such as the hepatitis A virus, are non-enveloped viruses. Non-enveloped viruses are more resistant to disinfectants than enveloped viruses. Sodium hypochlorite, also known as bleach, is a strong disinfectant that is effective against both enveloped and non-enveloped viruses. Therefore, sodium hypochlorite would be the most effective disinfectant to inactivate this virus.\n\nFinal Answer: C. Sodium hypochlorite",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 70-year-old hypertensive and hyperlipidemic woman comes to the emergency department with chief complaints of acute onset of impaired speech and comprehension with a right-sided weakness for the last 1.5 hours. The patient was on 2 antihypertensive medications and a statin, but she was not receiving any antiplatelet drugs. She has a blood pressure of 136/94, heart rate of 84/min, and respiratory rate of 15/min. Initial examination shows global aphasia, right homonymous hemianopia, and hemisensory loss. An acute ischemic stroke caused by distal left internal carotid artery occlusion with salvageable penumbral tissue is diagnosed based on a non-contrast CT scan, brain MRI, and catheter cerebral angiogram. Intravenous tissue plasminogen activator is given as treatment within 3 hours of presentation. Which of the following cellular processes is typical of the section of reversible injury noted in this patient?",
+    "options": {
+      "A": "Mitochondrial permeability",
+      "B": "Caspase activation",
+      "C": "Lysosomal rupture",
+      "D": "Severe membrane damage",
+      "E": "Decreased ATP"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient in the question has an acute ischemic stroke, which is caused by a decrease in blood flow to a part of the brain. This leads to a state of ischemia in the affected area. Ischemia results in a lack of oxygen and glucose, which are necessary for the production of ATP via aerobic respiration. As a result, ATP levels decrease in the affected cells. ATP is necessary for the function of many cellular processes, including the sodium-potassium pump that maintains the ionic balance across the cell membrane. When ATP levels decrease, the sodium-potassium pump fails, leading to an influx of sodium and water into the cell, causing cellular swelling, a reversible stage of cellular injury. If the ischemia persists, it can lead to irreversible injury and cell death. Therefore, the cellular process typical of the section of reversible injury in this patient is a decrease in ATP.\n\nFinal Answer: E. Decreased ATP",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 62-year-old man comes to the physician because of worsening involuntary movements of both arms for the past 7 months. He reports that certain daily activities have become more difficult to perform. His father had a similar condition that was treated with medications. The patient appears anxious. Vital signs are within normal limits. Examination shows a low-amplitude tremor bilaterally when the arms are outstretched that worsens when reaching out to grab a pen. Muscle strength and tone is normal bilaterally. Deep tendon reflexes are 2+ bilaterally. On mental status examination, his mood is good. His speech is normal in rate and rhythm. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Deep brain stimulation",
+      "B": "Thalamotomy",
+      "C": "Levodopa and carbidopa therapy",
+      "D": "Clonazepam therapy",
+      "E": "Propranolol therapy"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's symptoms of bilateral hand tremors that worsen with action (reaching out to grab a pen) suggest a diagnosis of essential tremor. Essential tremor is often familial and typically starts in the third or fourth decade of life, increasing in frequency and amplitude with age. First-line treatment for essential tremor is a \u03b2-blocker, such as propranolol. If \u03b2-blockers are contraindicated or not tolerated, alternatives include primidone or topiramate. Deep brain stimulation and thalamotomy are reserved for patients with severe, refractory symptoms.\n\nFinal Answer: E. Propranolol therapy",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 58-year-old woman presents to the office for routine follow-up. She recently underwent routine screening for bone density due to a history of hypothyroidism. She also has a history of gastroesophageal reflux disease (GERD) that is being treated with a proton-pump inhibitor (PPI) and more recently with a histamine2 receptor antagonist (H2RA), hypertension being treated with a thiazide diuretic, depression being treated with lithium, and hormone replacement therapy. Her results meet the criteria for osteopenia, with a T-score of -1.6. She is concerned about progressive bone loss and the risk of fractures. Which of the following medication classes should be discontinued?",
+    "options": {
+      "A": "Proton-pump inhibitors",
+      "B": "Thiazide diuretics",
+      "C": "Histamine2 receptor antagonists",
+      "D": "Lithium",
+      "E": "Estrogen"
+    },
+    "ground_truth": "A",
+    "model_answer": "Final Answer: A. Proton-pump inhibitors",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 30-year-old man is brought to the emergency department with complaints of fever (41.5\u2103 (106.7\u2109)) and diarrhea for the past 12 hours. There is no history of headaches, vomiting, or loss of consciousness. The past medical history is unobtainable due to a language barrier (the patient recently immigrated from abroad), but his wife says her husband had a motor vehicle accident when he was a teenager that required surgery. He is transferred to the ICU after a few hours in the ED because of dyspnea, cyanosis, and near-collapse. There are no signs of a meningeal infection. The Blood pressure was 70/30 mm Hg at the time of transfer. A chest X-ray at the time of admission showed interstitial infiltrates without homogeneous opacities. The initial laboratory results reveal metabolic acidosis, leukopenia with a count of 2,000/mm\u00b3, thrombocytopenia (15,000/mm\u00b3), and a coagulation profile suggestive of disseminated coagulation. A peripheral smear was performed and is shown below. Despite ventilatory support, administration of intravenous fluids, antibiotics, and vasopressor agents, the patient died the next day. A gram stain from an autopsy specimen of the lungs revealed gram-positive, lancet-shaped diplococci occurring singly or in chains. Which of the following organisms is most likely?",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Streptococcus pyogene",
+      "C": "Streptococcus pneumoniae",
+      "D": "Neisseria meningitidis",
+      "E": "Non-typeable H. influenzae"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's presentation of high fever, diarrhea, dyspnea, cyanosis, hypotension, and interstitial infiltrates on chest X-ray, along with laboratory findings of metabolic acidosis, leukopenia, thrombocytopenia, and disseminated intravascular coagulation, are suggestive of septic shock. The gram stain from the autopsy specimen of the lungs showing gram-positive, lancet-shaped diplococci occurring singly or in chains is characteristic of Streptococcus pneumoniae. This organism is a common cause of pneumonia and can lead to sepsis and septic shock, particularly in individuals with certain risk factors such as a history of trauma or surgery, as in this patient.\n\nFinal Answer: C. Streptococcus pneumoniae",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 27-year-old man presents to the emergency department due to a change in his skin color. The patient went on a long hike this morning, and his girlfriend noticed that his skin had changed color when they were driving home. The patient has a past medical history of marijuana use, IV drug use, alcohol use, and asthma. His current medications include albuterol, fluticasone, and ibuprofen. His temperature is 97.5\u00b0F (36.4\u00b0C), blood pressure is 120/75 mmHg, pulse is 60/min, respirations are 10/min, and oxygen saturation is 98% on room air. Laboratory studies are ordered and are seen below.\n\nHemoglobin: 10 g/dL\nHematocrit: 32%\nLeukocyte count: 5,500 cells/mm^3 with normal differential\nPlatelet count: 207,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 99 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 24 mEq/L\nBUN: 17 mg/dL\nGlucose: 89 mg/dL\nCreatinine: 1.0 mg/dL\nCa2+: 10.1 mg/dL\nBilirubin, total: 11.3 mg/dL\nBilirubin, direct: 7.8 mg/dL\n\nPhysical exam is notable for a patient with skin that appears yellow/orange. Cardiac, pulmonary, abdominal, and neurological exams are within normal limits. Which of the following is associated with this patient's underlying pathology?",
+    "options": {
+      "A": "A pathology responsive to sofosbuvir",
+      "B": "Decreased UDP-glucuronyl transferase activity",
+      "C": "Hyperpigmentation of the liver",
+      "D": "Increased consumption of beta-carotene",
+      "E": "Increased liver enzymes with AST > ALT"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's presentation of yellow/orange skin coloration with normal sclera, along with a significantly elevated total and direct bilirubin but normal liver enzymes, is suggestive of unconjugated hyperbilirubinemia. This can occur due to overproduction of bilirubin, decreased uptake of bilirubin by hepatocytes, or decreased conjugation of bilirubin. In this case, the patient's normal liver enzymes and absence of hepatomegaly or other signs of liver disease make decreased conjugation of bilirubin due to decreased UDP-glucuronyl transferase activity the most likely cause. This is seen in conditions such as Gilbert syndrome, a common, benign cause of unconjugated hyperbilirubinemia.\n\nFinal Answer: B. Decreased UDP-glucuronyl transferase activity",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A medical researcher is studying the physiology of the immune system in order to better understand the effects of HIV on patients. He isolates a group of cells that are shown by flow cytometry to be positive for the cell surface marker CD8. He then mixes this cell population with a group of infected cells, crosslinks extracellular interactions, and immunoprecipitates the CD8 protein. He identifies a protein bound to CD8 that is composed of two chains from an adjacent cell. Which of the following best describes the primary function of the protein that was most likely identified?",
+    "options": {
+      "A": "Binds complement proteins on the cell surface",
+      "B": "Binds endogenous peptides that are present in the endosome",
+      "C": "Binds endogenous peptides that have been transported by the TAP channel",
+      "D": "Binds exogenous peptides that are present in the endosome",
+      "E": "Binds exogenous peptides that have been transported by the TAP channel"
+    },
+    "ground_truth": "C",
+    "model_answer": "The CD8 protein is found on cytotoxic T cells and binds to MHC class I molecules. MHC class I molecules present endogenous peptides that have been transported from the cytosol to the endoplasmic reticulum by the TAP channel. Therefore, the protein that was most likely identified binds endogenous peptides that have been transported by the TAP channel.\n\nFinal Answer: C.",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 42-year-old man is admitted to the intensive care unit with decreased consciousness and convulsions. His wife reports that 30 min following the onset of her husband\u2019s condition, which started approximately 6 hours ago, he treated his garden bed with pesticides against mice. He developed nausea, vomiting, and abdominal cramps. The patient noted facial muscle twitching and developed a tonic-clonic seizure that lasted 3 minutes, 4 hours following the onset of his condition. His past medical history is insignificant for any seizure disorders, and he does not take any medications. His blood pressure is 95/60 mm Hg, heart rate is 104/min, respiratory rate is 10/min, and the temperature is 37.0\u00b0C (98.6\u00b0F). On physical examination, the patient\u2019s consciousness is decreased with a Glasgow Coma Scale score of 13. He is pale and sweaty. His lung sounds are normal, cardiac sounds are decreased, and no murmurs are present. Abdominal palpation reveals epigastric tenderness. Neurological examination shows rapid downbeating nystagmus, facial muscle twitching, and symmetrically decreased sensation to all the sensory modalities on both the upper and lower extremities. Further discussion reveals that the patient was using sodium fluoroacetate as a pesticide, which is known to form fluorocitrate in the cells of aerobic organisms. Which of the following substances will accumulate in the patient\u2019s cells?",
+    "options": {
+      "A": "Fumarate",
+      "B": "Citrate",
+      "C": "Isocitrate",
+      "D": "Malate",
+      "E": "Succinate"
+    },
+    "ground_truth": "B",
+    "model_answer": "Sodium fluoroacetate is a potent toxin that is converted to fluorocitrate in the body. Fluorocitrate inhibits aconitase, an enzyme in the citric acid cycle (also known as the Krebs cycle or the tricarboxylic acid cycle). Aconitase catalyzes the conversion of citrate to isocitrate. Therefore, if aconitase is inhibited, citrate will accumulate in the cells.\n\nFinal Answer: B. Citrate",
+    "final_choice": "B",
+    "is_correct": true
+  },
+  {
+    "question": "A 62-year-old patient has been hospitalized for a week due to a stroke. One week into the hospitalization, he develops a fever and purulent cough. His vitals include: heart rate 88/min, respiratory rate 20/min, temperature 38.4\u00b0C (101.1\u00b0F), and blood pressure 110/85 mm Hg. On physical examination, he has basal crackles on the right side of the chest. Chest radiography shows a new consolidation on the same side. Complete blood count is as follows:\nHemoglobin 16 mg/dL\nHematocrit 50%\nLeukocyte count 8,900/mm3\nNeutrophils 72%\nBands 4%\nEosinophils 2%\nBasophils 0%\nLymphocytes 17%\nMonocytes 5%\nPlatelet count 280,000/mm3\nWhat is the most likely causal microorganism?",
+    "options": {
+      "A": "Pseudomona aeruginosa",
+      "B": "Streptococcus pneumoniae",
+      "C": "Mycobacterium tuberculosis",
+      "D": "Haemophilus influenzae",
+      "E": "Staphylococcus aureus"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's clinical presentation is suggestive of hospital-acquired pneumonia (HAP), which is pneumonia that occurs 48 hours or more after admission, which was not incubating at the time of admission. The most common pathogens in HAP are Staphylococcus aureus, Pseudomonas aeruginosa, and other gram-negative bacilli. Considering the patient's clinical scenario and the provided context, the most likely causal microorganism is Staphylococcus aureus.\n\nFinal Answer: E.",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 61-year-old man presents to his primary care provider complaining of abdominal pain and constipation. He reports a 4-day history of steady right lower quadrant pain. He has had one small bowel movement in 4 days. Normally he has a bowel movement once a day. His medical history is notable for poorly controlled hypertension and hyperlipidemia. He takes enalapril, hydrochlorothiazide, aspirin, and atorvastatin. He has a 40 pack-year smoking history and drinks 3-4 beers per day. His diet consists primarily of fast food. His temperature is 101.8\u00b0F (38.8\u00b0C), blood pressure is 160/95 mmHg, pulse is 90/min, and respirations are 16/min. A review of the patient\u2019s medical record reveals colonoscopy results from 1 year ago. Relevant findings included multiple small, pedunculated polyps which were removed, multiple colonic mucosal outpouchings, and no other masses. This patient\u2019s condition is most strongly associated with which of the following disorders?",
+    "options": {
+      "A": "Alpha-1-antitrypsin deficiency",
+      "B": "Autosomal recessive polycystic kidney disorder",
+      "C": "Ehlers-Danlos syndrome",
+      "D": "Goodpasture syndrome",
+      "E": "Menetrier disease"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's presentation of right lower quadrant pain, fever, and constipation is suggestive of acute diverticulitis. Diverticulosis (the presence of diverticula, as seen in this patient's colonoscopy from 1 year ago) is common, especially in older adults, and is often asymptomatic. Risk factors include age, low-fiber diet, and obesity. Diverticulitis occurs when a diverticulum becomes inflamed, often due to obstruction by fecal material. This can cause symptoms of abdominal pain (most often left lower quadrant, but can be right lower quadrant in Asian populations), fever, and altered bowel habits (eg, constipation, diarrhea). None of the options listed are associated with diverticular disease. Therefore, the best answer is that we don't know.\n\nFinal Answer: We don't know.",
+    "final_choice": null,
+    "is_correct": false
+  },
+  {
+    "question": "A 69-year-old man presents to his primary care physician for trouble sleeping. The patient states that he recently retired from working the day shift at a cemetery. When the patient retired, his goal was to finally be able to go out with his wife; however, he finds that he is unable to stay awake past 6 pm in the evening. His inability to stay awake has been straining his marriage as his wife is disappointed that they cannot do any activities in the evening together. The patient has tried drinking caffeine but finds that it does not help. The patient\u2019s wife claims that the patient seems to sleep peacefully, and the patient states he feels rested when he awakes. The patient has a past medical history of irritable bowel syndrome which is managed with fiber supplements. The patient\u2019s neurological exam is within normal limits. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Obstructive sleep apnea",
+      "B": "Delayed sleep phase disorder",
+      "C": "Advanced sleep phase disorder",
+      "D": "Chronic insomnia",
+      "E": "Normal aging"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's symptoms of early evening sleepiness and inability to stay awake past 6 pm, despite feeling rested upon awakening, are suggestive of a circadian rhythm sleep disorder. Advanced sleep phase disorder (ASPD) is characterized by a shift in the sleep-wake cycle, causing individuals to fall asleep and wake up earlier than desired. This disorder is more common in the elderly. Delayed sleep phase disorder, on the other hand, is characterized by a shift in the sleep-wake cycle that causes individuals to fall asleep and wake up later than desired, and is more common in adolescents. Obstructive sleep apnea is less likely given the absence of symptoms such as snoring, gasping, or snorting during sleep, and daytime sleepiness. Chronic insomnia is characterized by difficulty falling asleep, staying asleep, or early morning awakenings, which the patient does not report. Normal aging can cause changes in sleep patterns, but this patient's symptoms are more consistent with a specific sleep disorder.\n\nFinal Answer: C. Advanced sleep phase disorder.",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 38-year-old woman presents to the office for a routine examination. She has no complaints and offers very little information voluntarily. She answers each question with soft, short sentences and avoids eye contact. She appears timid, anxious and admits that this is one of the very few times she has left the house in the last several years. Medical history is significant for essential hypertension. She takes hydrochlorothiazide and a daily vitamin. She has worked from home as a web graphic designer for 20 years. Questions about her social life reveal that she is very shy with few friends, and she often makes excuses to avoid parties and social gatherings. Despite this, she expresses a strong desire to be in a relationship. Today, her blood pressure is 125/85 mm Hg, heart rate is 95/min, respiratory rate is 18/min, and temperature is 37.0\u00b0C (98.6\u00b0F). On physical examination, her heart has a regular rhythm and her lungs are clear to auscultation bilaterally. Which of the following is most consistent with her behavior?",
+    "options": {
+      "A": "Body dysmorphic disorder",
+      "B": "Schizoid personality disorder",
+      "C": "Avoidant personality disorder",
+      "D": "Antisocial personality disorder",
+      "E": "Agoraphobia"
+    },
+    "ground_truth": "C",
+    "model_answer": "This patient's fear of social situations, avoidance of social interactions, and desire for relationships are consistent with avoidant personality disorder. Individuals with this disorder are hypersensitive to rejection, criticism, and negative evaluation, which leads them to avoid work, school, and social activities that involve significant interpersonal contact. Despite their avoidance, these individuals have a strong desire for companionship and acceptance, distinguishing them from those with schizoid personality disorder, who prefer to be alone and do not desire or enjoy close relationships.\n\nFinal Answer: C.",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 23-year-old college student presents to the clinic with a history of intermittent chest discomfort. He reports that, about once per month for the past 8 or 9 months, he's had episodes of \"feeling like my chest is going to explode.\" During these episodes, he also feels shortness of breath, feels shakiness throughout his arms and legs, and sweats so heavily that he needs to change his shirt. He is unsure of any clear precipitating factors but thinks they may occur more often around important exams or when big school projects are due. He shares that, as these episodes continue to recur, he has had mounting anxiety about having one when he is in class or at a restaurant. As a result, he is leaving the house less and less. He has no past medical history; the physical exam is unremarkable. Which of the following is the best medication for the long-term management of this patient's condition?",
+    "options": {
+      "A": "Citalopram",
+      "B": "Lithium",
+      "C": "Lorazepam",
+      "D": "Propranolol",
+      "E": "Quetiapine"
+    },
+    "ground_truth": "A",
+    "model_answer": "The patient's symptoms of episodic chest discomfort, shortness of breath, shakiness, and heavy sweating, which seem to be triggered by stressors such as exams or big school projects, are suggestive of panic attacks. Panic disorder is characterized by recurrent, unexpected panic attacks, followed by at least 1 month of persistent concern or worry about having more attacks or significant maladaptive behavior related to the attacks. The patient's avoidance of leaving the house due to fear of having a panic attack in public is an example of such maladaptive behavior. Selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs) are first-line treatment for panic disorder. Citalopram is an SSRI and would be the best choice for long-term management of this patient's condition.\n\nFinal Answer: A. Citalopram",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 24-year-old G2P1 woman at 39 weeks\u2019 gestation presents to the emergency department complaining of painful contractions occurring every 10 minutes for the past 2 hours, consistent with latent labor. She says she has not experienced vaginal discharge, bleeding, or fluid leakage, and is currently taking no medications. On physical examination, her blood pressure is 110/70 mm Hg, heart rate is 86/min, and temperature is 37.6\u00b0C (99.7\u00b0F). She has had little prenatal care and uses condoms inconsistently. Her sexually transmitted infections status is unknown. As part of the patient\u2019s workup, she undergoes a series of rapid screening tests that result in the administration of zidovudine during delivery. The infant is also given zidovudine to reduce the risk of transmission. A confirmatory test is then performed in the mother to confirm the diagnosis of HIV. Which of the following is most true about the confirmatory test?",
+    "options": {
+      "A": "It determines the genotype of the virus",
+      "B": "It is a Southwestern blot, identifying the presence of DNA-binding proteins",
+      "C": "It is a Northern blot, identifying the presence of RNA",
+      "D": "It is a Northern blot, identifying the presence of DNA",
+      "E": "It is an HIV-1/HIV2 antibody differentiation immunoassay"
+    },
+    "ground_truth": "E",
+    "model_answer": "Final Answer: E",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 40-year-old woman comes to the physician because of a 2-month history of increasingly frequent episodes of vertigo and feeling unsteady while walking. She reports that she has had episodic tinnitus in her right ear for the past 3 years. Neurologic examination shows hearing loss in the right ear. An MRI of the brain is shown. Pathologic examination of this patient's lesion is most likely to show which of the following?",
+    "options": {
+      "A": "Whorls of densely packed cells with areas of lamellated calcification",
+      "B": "Small blue cells arranged in rosettes around a central neuropil",
+      "C": "Hypercellular areas of spindle cells and hypocellular areas of myxoid stroma",
+      "D": "Pleomorphic cells clustered around necrotic areas forming pseudopalisades",
+      "E": "Cells with clear cytoplasm and central round nucleus resembling a fried egg"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's symptoms of episodic vertigo, tinnitus, and unilateral hearing loss suggest a peripheral cause of vertigo. The most likely diagnosis in this case is a vestibular schwannoma (also known as acoustic neuroma), which is a benign tumor that arises from Schwann cells of the vestibulocochlear nerve. Vestibular schwannomas are typically slow-growing tumors that can cause symptoms like hearing loss, tinnitus, and imbalance as they expand and compress adjacent structures. On histologic examination, vestibular schwannomas are characterized by hypercellular (Antoni A) areas of spindle cells and hypocellular (Antoni B) areas of myxoid stroma.\n\nFinal Answer: C. Hypercellular areas of spindle cells and hypocellular areas of myxoid stroma.",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 67-year-old man with peripheral neuropathy comes to the physician for a follow-up examination after the results of serum protein electrophoresis showed monoclonal gammopathy. A complete blood count, serum creatinine, and serum electrolyte concentrations are within the reference ranges. A bone marrow biopsy shows 6% monoclonal plasma cells. Further analysis shows that class I major histocompatibility molecules are downregulated in these monoclonal plasma cells. The proliferation of these monoclonal plasma cells is normally prevented by a class of immune cells that lyse abnormal cells without the need for opsonization, priming, or prior activation. Which of the following best describes this class of immune cells?",
+    "options": {
+      "A": "CD8+ T lymphocytes",
+      "B": "Bone marrow-derived macrophages",
+      "C": "CD4+ T lymphocytes",
+      "D": "Natural killer cells",
+      "E": "Band neutrophils"
+    },
+    "ground_truth": "D",
+    "model_answer": "The class of immune cells that can lyse abnormal cells without the need for opsonization, priming, or prior activation are natural killer cells. \n\nFinal Answer: D",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "An 80-year-old man is brought to the emergency department because of fatigue and lightheadedness. He does not have chest pain, palpitations, or difficulty breathing. He has a history of hyperlipidemia, type 2 diabetes mellitus, hypertension, osteoarthritis, and asthma. Current medications include simvastatin, metformin, lisinopril, albuterol, and ibuprofen. His pulse is 48/min and blood pressure is 89/50 mm Hg. He responds slowly to questions but is oriented to person, place, and time. Examination shows dry mucous membranes. His lungs are clear to auscultation and bowel sounds are positive with no pulsatile masses or bruits. Pedal pulses are nonpalpable, distal extremities are cold, and capillary refill time is 4 seconds. An ECG shows left axis deviation, a Q wave in lead III, a constant PR interval of 0.15 seconds with every third P wave that is nonconducted, and a QRS interval of .09 seconds. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Dopamine",
+      "B": "Dobutamine",
+      "C": "Norepinephrine",
+      "D": "Cardiac pacing",
+      "E": "Epinephrine"
+    },
+    "ground_truth": "D",
+    "model_answer": "Final Answer: D",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A previously healthy 16-year-old boy comes to the physician because of a 5-day history of pain at the back of his left ankle. His mother had a myocardial infarction at 54 years. His BMI is 23 kg/m2. There is tenderness above the left posterior calcaneus and a firm, 3-cm, skin-colored nodule that moves with the left Achilles tendon. A photomicrograph from a biopsy of the nodule is shown. Serum studies in this patient are most likely to show increased levels of which of the following?",
+    "options": {
+      "A": "Uric acid",
+      "B": "Rheumatoid factor",
+      "C": "Angiotensin converting enzyme",
+      "D": "Low-density lipoprotein",
+      "E": "Triglycerides"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's presentation of Achilles tendon xanthomas (firm, skin-colored nodules that move with the tendon) and a family history of premature coronary artery disease suggest familial hypercholesterolemia (FH). FH is an autosomal dominant disorder characterized by elevated low-density lipoprotein (LDL) cholesterol levels from birth, leading to premature atherosclerotic cardiovascular disease. Tendon xanthomas (eg, Achilles, extensor tendons of the hand) are pathognomonic. Therefore, serum studies in this patient are most likely to show increased levels of LDL.\n\nFinal Answer: D.",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 13-year-old boy is brought to the emergency department because of pain in his right knee for the past week. The pain is exacerbated by jogging and climbing up stairs. He has no history of trauma to the knee. He is otherwise healthy. He is an active member of his school's gymnastics team. His vital signs are within normal limits. Examination of the right knee shows a tender swelling at the proximal tibia; range of motion is full. Knee extension against resistance causes pain in the anterior proximal tibia. The remainder of the examinations shows no abnormalities. X-ray of the right knee shows anterior tibial soft tissue swelling with fragmentation of the tibial tuberosity. Which of the following is the most appropriate next step?",
+    "options": {
+      "A": "Administration of oral ketorolac",
+      "B": "Perform joint aspiration",
+      "C": "Open reduction of the tuberosity",
+      "D": "Administration of oral methotrexate",
+      "E": "Application of a lower leg cast\n\""
+    },
+    "ground_truth": "A",
+    "model_answer": "The patient's age, activity level, location of pain, and radiographic findings are suggestive of Osgood-Schlatter disease (OSD). OSD is a common cause of knee pain in adolescents and is thought to result from repetitive quadriceps contraction through the patellar tendon at its insertion on the skeletally immature tibial tuberosity. This can cause a traction apophysitis with subsequent swelling and tenderness over the tibial tuberosity. Radiographs may show fragmentation of the tibial tuberosity and soft tissue swelling, as in this patient. Treatment of OSD is conservative and includes rest, activity modification, and NSAIDs for pain control. Therefore, the most appropriate next step for this patient is administration of oral ketorolac, an NSAID.\n\nFinal Answer: A.",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 32-year-old primigravid woman at 16 weeks' gestation comes to the physician for a routine prenatal visit. She is asymptomatic and has no history of serious illness. Her only medication is a prenatal vitamin. Her temperature is 37.2\u00b0C (99\u00b0F) and blood pressure is 108/60 mm Hg. Pelvic examination shows a uterus consistent in size with a 16-week gestation. A quadruple screening test shows maternal serum AFP of 3 times the median and normal levels of serum \u03b2-hCG, estriol, and inhibin A. Which of the following is most likely to account for these findings?",
+    "options": {
+      "A": "Fetal hydrocephalus",
+      "B": "Partial molar pregnancy",
+      "C": "Neural tube defect",
+      "D": "Trisomy 18",
+      "E": "Trisomy 21"
+    },
+    "ground_truth": "C",
+    "model_answer": "The quadruple screening test is used in the second trimester of pregnancy to screen for certain genetic conditions and birth defects. It measures levels of four substances in a pregnant woman's blood: alpha-fetoprotein (AFP), human chorionic gonadotropin (hCG), estriol, and inhibin A. In this case, the patient's AFP level is elevated, while the levels of the other three substances are normal. Elevated AFP levels can indicate a neural tube defect in the fetus, as defects in fetal integument, such as neural-tube and ventral-wall defects, permit AFP to leak into the amnionic fluid, resulting in dramatically increased maternal serum levels. The other options (A, B, D, E) are less likely given the normal levels of hCG, estriol, and inhibin A.\n\nFinal Answer: C. Neural tube defect",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 30-year-old female presents to her primary care provider complaining of 4 days of fever, malaise, dyspnea, and productive cough and has recently developed pleuritic chest pain. Her past medical history is notable for asthma and takes albuterol as needed. She does not smoke but drinks alcohol socially. Her family history is notable for cystic fibrosis in her paternal uncle and interstitial lung disease in her paternal grandfather. Her temperature is 101\u00b0F (38.3\u00b0C), blood pressure is 115/75 mmHg, pulse is 110/min, and respirations are 21/min. Rales are noted in the right lower lung, and a chest radiograph demonstrates focal consolidation in the right lower lung lobe. After initiating the appropriate treatment, she agrees to take part in a study assessing the immune response to lung infections. A protein is identified in her serum that is thought to be elevated in response to her condition. An amino acid sequence at the carboxy terminus of the protein is isolated and a fluorescent marker is added to the sequence. This labeled sequence is subsequently added to a gel containing a protein isolated from the cell surface of the patient\u2019s own neutrophils and macrophages and subsequently labeled with another fluorescent marker. The sequence binds strongly to this protein as evidenced by increased fluorescence in the gel. What process does this sequence typically undergo in immunocompetent individuals?",
+    "options": {
+      "A": "Affinity maturation",
+      "B": "Random assortment",
+      "C": "Random nucleotide addition",
+      "D": "VDJ recombination",
+      "E": "Isotype switching"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's presentation of fever, malaise, dyspnea, productive cough, and pleuritic chest pain with physical examination findings of rales and radiographic evidence of focal consolidation is suggestive of pneumonia. The study she is participating in is likely investigating the immune response to bacterial infection. The protein identified in her serum is likely an antibody, which is produced by B cells in response to an antigen. The amino acid sequence at the carboxy terminus of the protein is the variable region of the antibody, which binds to a specific antigen. This region undergoes affinity maturation, a process that increases the binding affinity of the antibody for its specific antigen. Affinity maturation occurs in the germinal centers of lymph nodes after exposure to an antigen and involves somatic hypermutation of the variable region of the antibody gene followed by selection of B cells producing high-affinity antibodies.\n\nFinal Answer: A. Affinity maturation",
+    "final_choice": "A",
+    "is_correct": false
+  },
+  {
+    "question": "A research group has created a novel screening test for a rare disorder. A robust clinical trial is performed in a group of 100 subjects comparing the new screening test against the gold standard. The results are given in the table below:\nScreening test\\gold standard Disease present Disease absent\nPositive 45 15\nNegative 5 35\nWhich of the following is most correct regarding the statistical power of this new screening test?",
+    "options": {
+      "A": "The new screening test has greater statistical power than the gold standard.",
+      "B": "Repeating the study would have no effect on the statistical power of the screening test.",
+      "C": "The power of the test is 0.8.",
+      "D": "If the specificity of this screening test were increased, the statistical power would increase.",
+      "E": "If the sensitivity of this screening test were decreased, the statistical power would decrease."
+    },
+    "ground_truth": "E",
+    "model_answer": "The statistical power of a test is related to its ability to correctly reject a false null hypothesis, which in this context would be the ability to correctly identify those with the disease. This is related to the sensitivity of the test, which is the proportion of true positive results among the subjects with the disease. In this case, the sensitivity of the new screening test is 45/(45+5) = 0.9. If the sensitivity of the test were decreased, it would be less able to correctly identify those with the disease, and thus the power of the test would decrease. Therefore, the correct answer is E. \n\nFinal Answer: E.",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 6-year-old boy is brought in by his parents to a pediatrician\u2019s office for persistent fever. His temperature has ranged from 38.6\u00b0C\u201339.5\u00b0C (101.5\u00b0F\u2013103.1\u00b0F) over the past week. He was diagnosed with a gene defect on chromosome 7, which has caused dysfunction in a transmembrane protein. This defect has resulted in several hospitalizations for various respiratory infections. At the present time, he is struggling with a cough with thick purulent sputum. A sputum sample is sent for culture and the patient is started on vancomycin.The pediatrician tells the patient\u2019s family that there is a collection of mucus in the respiratory tree which increases the patient's chances of future infections. He will have to undergo chest physiotherapy and they should report any signs of infection immediately to a medical professional. Which of the following pathogens will most likely infect this patient in adulthood?",
+    "options": {
+      "A": "Staphylococcus",
+      "B": "Pseudomonas",
+      "C": "Burkholderia",
+      "D": "Influenza",
+      "E": "Candida"
+    },
+    "ground_truth": "B",
+    "model_answer": "The patient's gene defect on chromosome 7 causing dysfunction in a transmembrane protein is suggestive of cystic fibrosis. This condition is characterized by the production of thick, sticky mucus that can clog the lungs, leading to serious respiratory infections. While Staphylococcus aureus is the most common pathogen in children with cystic fibrosis, Pseudomonas aeruginosa becomes the most common pathogen in adults with this condition. Therefore, the patient is most likely to be infected with Pseudomonas in adulthood.\n\nFinal Answer: B. Pseudomonas",
+    "final_choice": "B",
+    "is_correct": true
+  },
+  {
+    "question": "A 39-year-old woman, with a history of thyroidectomy and primary hyperparathyroidism presents for surgical evaluation for a right adrenal mass. Preoperatively, which of the following medications should she receive to prevent a hypertensive emergency intraoperatively?",
+    "options": {
+      "A": "Atenolol",
+      "B": "Labetolol",
+      "C": "Lisinopril",
+      "D": "Nifedipine",
+      "E": "Phenoxybenzamine"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's history of a right adrenal mass suggests the possibility of a pheochromocytoma, a tumor that secretes excess catecholamines (epinephrine and norepinephrine). This can lead to severe hypertension, especially during surgery when the tumor is manipulated. To prevent a hypertensive crisis during surgery, patients with suspected pheochromocytoma should be preoperatively treated with an alpha-blocker to prevent vasoconstriction. Phenoxybenzamine, a nonselective, irreversible alpha-blocker, is often used for this purpose. Therefore, the correct answer is Phenoxybenzamine.\n\nFinal Answer: E. Phenoxybenzamine.",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 28-year-old man comes to the physician because of diarrhea and crampy abdominal pain for 5 weeks. He has had up to 4 bowel movements per day. Several times he noticed mucoid strings with the stool. He has abdominal bloating. Over the past month, has had a 3.2-kg (7-lb) weight loss. He has not had fever, cough, or bloody stools. He had a painful rash on his lower extremity 3 weeks ago that resolved spontaneously. He works as a pharmacy technician. His temperature is 37.3\u00b0C (98.8\u00b0F), pulse is 85/min, and blood pressure is 115/77 mm Hg. The abdomen is soft and nontender. His hemoglobin concentration is 11.9 g/dL, MCV is 79 fL, ferritin is 106 ng/dL, and platelet count is 410,000/mm3; serum concentrations of glucose, creatinine, and electrolytes are within the reference range. This patient's condition is most likely associated with which of the following findings?",
+    "options": {
+      "A": "Mucosal lactase deficiency",
+      "B": "Increased serum VIP",
+      "C": "Stool leukocytes",
+      "D": "Melanosis coli",
+      "E": "Normal intestinal mucosa"
+    },
+    "ground_truth": "C",
+    "model_answer": "This patient's chronic diarrhea, abdominal pain, and weight loss are suggestive of inflammatory bowel disease (IBD). The presence of mucoid stools and the absence of bloody diarrhea are more suggestive of Crohn disease than ulcerative colitis. Extraintestinal manifestations of IBD include erythema nodosum, a painful rash that appears as red nodules usually located on the shins, which this patient likely had. The most common laboratory abnormality in IBD is anemia of chronic disease (normocytic, normochromic), but iron deficiency anemia (microcytic, hypochromic) can also occur due to chronic blood loss. This patient's anemia is likely due to a combination of both (eg, anemia of chronic disease with superimposed iron deficiency). The thrombocytosis is likely reactive due to the inflammation. Stool studies in patients with IBD often show leukocytes due to the inflammatory nature of the disease.\n\nFinal Answer: C. Stool leukocytes",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 58-year-old African American man presents for his yearly wellness visit. He says he has been unsuccessful at losing weight and would like help. His last colonoscopy was 8 years previously, which was normal. Past medical history is significant for obstructive sleep apnea (OSA) and hypertension. Current medications are isosorbide dinitrate/hydralazine and aspirin 81 mg orally daily. He is also on CPAP to manage his OSA. The patient denies any history of smoking or recreational drug use and drinks 1 or 2 beers on weekends. Family history is significant for prostate cancer in his father and hypertension and diabetes mellitus type 2 in his mother. His vital signs include: temperature 36.8\u00b0C (98.2\u00b0F), pulse 97/min, respiratory rate 16/min, blood pressure 120/75 mm Hg. BMI is 30 kg/m2. Physical examination is unremarkable. Fasting blood glucose is 90 mg/dL. Which of the following preventative screening tests would be most appropriate for this patient at this time?",
+    "options": {
+      "A": "PSA",
+      "B": "Digital rectal exam",
+      "C": "HbA1C",
+      "D": "Abdominal ultrasound",
+      "E": "Flexible sigmoidoscopy"
+    },
+    "ground_truth": "A",
+    "model_answer": "The patient is a 58-year-old African American man who is overweight (BMI 30 kg/m2) and has a family history of diabetes mellitus type 2. However, his fasting blood glucose is normal (90 mg/dL). According to the context, serum glucose and hemoglobin A1c should be checked every 3 years or more often in patients who are obese or hypertensive. However, his glucose levels are currently normal. \n\nThe context also mentions that colorectal cancer screening with a fecal occult blood test and a sigmoidoscopy or colonoscopy should be done on a regular schedule up to the age of 75 years. His last colonoscopy was 8 years ago, which is within the recommended interval for colorectal cancer screening.\n\nTherefore, the most appropriate preventative screening test for this patient at this time would be a flexible sigmoidoscopy.\n\nFinal Answer: E.",
+    "final_choice": "E",
+    "is_correct": false
+  },
+  {
+    "question": "A 32-year-old man jumps off a 3 story building during a suicide attempt. Paramedics arrive quickly, and he is taken to the hospital where several stable lumbar fractures and a shattered right calcaneus are found. He undergoes surgery and his calcaneus is repaired with 11 screws. Which of the following statements best describes the long term post-surgery outcome in this patient?",
+    "options": {
+      "A": "He will not be able to plantar flex his foot.",
+      "B": "He will not be able to point his toe.",
+      "C": "He will have a foot drop.",
+      "D": "He will have pain with inversion and eversion of his foot.",
+      "E": "He will have pain while dorsiflexing his foot."
+    },
+    "ground_truth": "D",
+    "model_answer": "The context mentions that \"Despite adequate treatment, calcaneal fractures can be debilitating injuries, leading to significant heel pain and arthritis.\" This suggests that the patient may experience pain, but it does not specify the type of movement that will cause this pain. However, it does not mention any specific loss of function such as the inability to plantar flex the foot, point the toe, or a foot drop. Therefore, none of the options A, B, or C are supported by the context. The context also does not provide information to support options D or E specifically. \n\nFinal Answer: I don't know.",
+    "final_choice": null,
+    "is_correct": false
+  },
+  {
+    "question": "A 55-year-old man presents with bloody nasal secretions and shortness of breath. He reports he has lost 4 kg (8.8 lb) in the last two months with no changes in his diet. He has also been suffering from mild to moderate joint pain in the left knee for the last year. His past medical history is unremarkable. His vitals include: blood pressure 120/70 mm Hg, temperature 37.0\u2103 (98.6\u2109), pulse 70/min, respiratory rate 14/min. Physical examination is significant for nasal ulcers. Diffuse crackles are present over all lobes of the lung bilaterally. Laboratory findings are significant for the following:\nHemoglobin 12.9 g/dL\nHematocrit 37.7%\nLeukocyte count 5500/mm3\nNeutrophils 65%\nLymphocytes 30%\nMonocytes 5%\nMean corpuscular volume 82.2 \u03bcm3\nPlatelet count 190,000/mm3\nErythrocyte sedimentation rate 35 mm/h\nC-reactive protein 14 mg/dL\nCreatinine 3.09 mg/dL\nThe patient is prescribed a corticosteroid nasal spray and oral antibiotics but returns in 2 weeks without any clinical improvement. Which of the following would most likely confirm the diagnosis in this patient?",
+    "options": {
+      "A": "Anti-citrullinated protein antibodies",
+      "B": "Erythrocyte sedimentation rate",
+      "C": "Anti-histone bodies",
+      "D": "Anti-Ro",
+      "E": "Antineutrophil cytoplasmic antibodies"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's presentation of sinusitis, hemoptysis, weight loss, arthralgia, and renal disease (as indicated by elevated creatinine) suggests granulomatosis with polyangiitis (GPA), formerly known as Wegener's granulomatosis. GPA is a small-vessel vasculitis that commonly affects the upper respiratory tract, lungs, and kidneys. The disease is associated with cytoplasmic antineutrophil cytoplasmic antibodies (c-ANCA), which are directed against proteinase 3. These antibodies are present in up to 90% of patients with active, generalized GPA and are therefore useful for confirming the diagnosis.\n\nFinal Answer: E. Antineutrophil cytoplasmic antibodies",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 34-year-old man with acute lymphocytic leukemia presents for follow-up in the oncology clinic after his second cycle of chemotherapy. In addition to intermittent nausea, he has mild weakness, tingling, and numbness in his left hand. With his affected hand, he is able to grip, but occasionally drops small objects. His oncologist tells him that one of his chemotherapy agents likely caused his neuropathy given its strong association with neurotoxicity. He was recently treated with cyclophosphamide, vincristine, doxorubicin, dexamethasone, and dasatinib. The culprit medication works by which of the following mechanisms of action?",
+    "options": {
+      "A": "Covalently X-links DNA",
+      "B": "Blocks microtubule formation",
+      "C": "Intercalates between DNA",
+      "D": "Modifies DNA transcription and protein synthesis",
+      "E": "Blocks tyrosine kinase"
+    },
+    "ground_truth": "B",
+    "model_answer": "The patient's symptoms of weakness, tingling, and numbness in his hand are suggestive of peripheral neuropathy, a known side effect of some chemotherapy agents. According to the context, vincristine is associated with motor dysfunction and paresthesias, which aligns with the patient's symptoms. Vincristine works by blocking microtubule formation.\n\nFinal Answer: B.",
+    "final_choice": "B",
+    "is_correct": true
+  },
+  {
+    "question": "A 52-year-old man presents to the clinic with a headache and dizziness for the past month. The patient reports that about 4 weeks ago he developed a \u201cnagging\u201d headache. He thought he had a cold, so he tried over the counter ibuprofen that provided only mild and temporary relief. Recently, he also started feeling dizzy and nauseous, which only resolves when he steps outside to shovel the snow. The patient\u2019s medical history is significant for hypertension, type II diabetes mellitus, and asthma. His medications include amlodipine, metformin, glimepiride, and a fluticasone/salmeterol inhaler. The patient has been living at his upstate cabin for the past 5 weeks but denies other recent travel. He denies smoking tobacco or illicit drug use. The patient\u2019s temperature is 99\u00b0F (37.2\u00b0C), blood pressure is 130/78 mmHg, pulse is 72/min, and respirations are 16/min with an oxygen saturation of 98% on room air. The patient is currently asymptomatic while sitting in the office, and physical examination is unremarkable. Labs are drawn, as shown below:\n\nHemoglobin: 20 g/dL\nHematocrit: 60%\nLeukocyte count: 10,050 cells/mm^3 with normal differential\nPlatelet count: 350,000/mm^3\n\nWhich of the following underlies the patient\u2019s most likely diagnosis?",
+    "options": {
+      "A": "Medication side effect",
+      "B": "Myeloproliferative neoplasm",
+      "C": "Neuronal hyperexcitability",
+      "D": "Toxic exposure",
+      "E": "Viral infection"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's symptoms of headache and dizziness, along with his elevated hemoglobin and hematocrit levels, suggest a diagnosis of polycythemia vera, a myeloproliferative neoplasm. This condition is characterized by an increase in the number of red blood cells, which can lead to an increased blood viscosity and subsequently cause symptoms such as headache and dizziness. The patient's symptoms improving when he shovels snow outside is likely due to the cooler temperature causing peripheral vasoconstriction and thus reducing blood flow to the brain, thereby alleviating his symptoms. \n\nFinal Answer: B. Myeloproliferative neoplasm",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 26-year-old nurse comes to the physician because of a 2-month history of fatigue. She has had a lot of stress at work and has been on sick leave for 2 weeks, but states that she would like to return to work. She has had several episodes of lower abdominal pain. She says, \"\"I know I have cancer.\"\" She requests a diagnostic laparoscopy. She was diagnosed with peptic ulcer disease 6 months ago. Her only medication is omeprazole. The patient appears pale. Her temperature is 36.5\u00b0 C (97.7\u00b0 F), pulse is 120/min, and blood pressure is 90/65 mm Hg. On mental status examination she is tired and has a depressed mood. Physical examination shows pale conjunctivae and dry mucous membranes. There are numerous crusts along the course of her left arm veins. A grade 2/6 systolic ejection murmur is heard along the right-upper sternal border. Abdominal examination shows no abnormalities. There is generalized weakness of the proximal muscles. Laboratory studies show:\nHemoglobin 7.5 g/dL\nMean corpuscular volume 89 \u03bcm3\nReticulocyte count 13.3%\nSerum\nSodium 139 mEq/L\nPotassium 3.9 mEq/L\nCalcium 8.5 mg/dL\nTest of the stool for occult blood is negative. Abdominal ultrasonography show no abnormalities. Which of the following is the most likely diagnosis?\"",
+    "options": {
+      "A": "Factitious disorder",
+      "B": "Somatic symptom disorder",
+      "C": "Conversion disorder",
+      "D": "Primary hyperparathyroidism",
+      "E": "Acute small bowel hemorrhage"
+    },
+    "ground_truth": "A",
+    "model_answer": "The patient's history of fatigue, pallor, tachycardia, hypotension, and a high reticulocyte count with a low hemoglobin level is suggestive of anemia due to chronic blood loss. The presence of crusts along the course of her left arm veins suggests that she may be injecting herself with blood to simulate disease, which is consistent with a factitious disorder. Factitious disorder is a mental disorder in which a person acts as if he/she has a physical or mental illness when he/she is not really sick. People with factitious disorder deliberately create or exaggerate symptoms of an illness in several ways. They may lie about or fake symptoms, hurt themselves to bring on symptoms, or alter diagnostic tests (such as contaminating a urine sample). The goal is to deceive others so that they think, mistakenly, that the person is sick. \n\nFinal Answer: A. Factitious disorder.",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 5-day-old boy is brought to the emergency department because of a 1-day history of poor feeding, irritability, and noisy breathing. The mother did not receive any prenatal care. His respirations are 26/min. Physical examination shows sunken fontanelles, tightly clenched fists, and erythema around the umbilical cord stump. Which of the following best describes the pathogenesis of the disease process in this patient?",
+    "options": {
+      "A": "Decreased release of acetylcholine",
+      "B": "Inhibition of voltage-gated sodium channels",
+      "C": "Destruction of Schwann cells",
+      "D": "Decreased release of glycine",
+      "E": "Destruction of anterior horn cells"
+    },
+    "ground_truth": "D",
+    "model_answer": "I'm sorry, but the context provided does not give enough information to accurately answer this question.",
+    "final_choice": null,
+    "is_correct": false
+  },
+  {
+    "question": "A 29-year-old woman presents to her OB/GYN for a preconception visit. She wishes to become pregnant within the next several months. A thorough history reveals that the patient suffers from phenylketonuria (PKU). She recalls being instructed by prior physicians to follow a diet that avoids certain foods; however, she admits to not being complaint with these recommendations. Laboratory testing reveals a plasma phenylalanine level of 20.2 mg/dL (normal range <2 mg/dL). Which of the following is the most appropriate response to this patient?",
+    "options": {
+      "A": "Even with appropriate treatment, your condition will prevent you from becoming pregnant",
+      "B": "Improved PKU treatment will decrease the risks of spontaneous abortion and intrauterine fetal death",
+      "C": "3 months prior to conception, begin a restricted diet to lower phenylalanine levels to below 6 mg/dL",
+      "D": "Begin a phenylalanine-restricted diet in your first trimester to reduce the risk of fetal morbidity",
+      "E": "Your current phenylalanine levels do not pose a risk to any future pregnancy"
+    },
+    "ground_truth": "C",
+    "model_answer": "Final Answer: C",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 30-year-old primigravid woman at 22 weeks' gestation is brought to the emergency department by her husband for lethargy, nausea, and vomiting for 4 days. This morning she became drowsy. She returned from a business trip to Sudan 3 weeks ago. She denies eating any seafood while traveling. Medications include iron supplements and a multivitamin. Her immunizations are up-to-date and she has never received blood products. Her temperature is 38.9\u00b0C (102\u00b0F), pulse is 92/min, and blood pressure is 122/76 mm Hg. She is oriented to person and place. Examination shows jaundice and mild asterixis. Pelvic examination shows a uterus consistent in size with a 22-week gestation. Laboratory studies show:\nHemoglobin 11.2 g/dL\nProthrombin time 18 sec (INR=2.0)\nSerum\nTotal bilirubin 4.4 mg/dL\nAlkaline phosphatase 398 U/L\nAST 4,702 U/L\nALT 3,551 U/L\nLactate dehydrogenase 3,412 U/L\nAnti-nuclear antibody negative\nAnti-smooth muscle antibody negative\nAnti-CMV antibody negative\nAnti-EBV nuclear antigen antibody negative\nAn ELISA for HIV is negative. Which of the following is most likely to confirm the diagnosis?\"",
+    "options": {
+      "A": "HBsAg",
+      "B": "Anti-HAV IgG",
+      "C": "HCV RNA",
+      "D": "Anti-HCV IgG",
+      "E": "Anti-HEV IgM"
+    },
+    "ground_truth": "E",
+    "model_answer": "This patient's recent travel to Sudan, a developing country, along with her presentation of fever, jaundice, and markedly elevated transaminases, is suggestive of acute viral hepatitis. The most common cause of acute viral hepatitis worldwide is hepatitis E virus (HEV), especially in areas with poor sanitation. Hepatitis E is a self-limited disease that does not become chronic. It is transmitted via the fecal-oral route, most commonly through contaminated water. Although it is usually asymptomatic or causes a mild disease, it can cause a fulminant hepatitis in pregnant women, especially in the second and third trimesters, with a mortality rate up to 20%. The diagnosis of HEV infection is made by detecting anti-HEV IgM.\n\nFinal Answer: E.",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 76-year-old man presents to the physician because of dyspepsia and weight loss over the past 6 months. He has no history of any serious illnesses and takes no medications. A diagnostic workup including endoscopy and biopsy shows gastric adenocarcinoma. Before further workup and staging, the biopsy results are discussed with the patient. He refuses any type of life-prolonging treatment, including chemotherapy, radiation, or surgery, but he requests appropriate palliative care without any significant burden of healthcare costs. Regarding this patient\u2019s eligibility for hospice care, what is the most appropriate next step?",
+    "options": {
+      "A": "A trial of life-extending treatment",
+      "B": "Determining patient\u2019s life-expectancy without treatment",
+      "C": "Establishing the presence of metastasis",
+      "D": "Follow-up until significant cognitive or functional disability develops",
+      "E": "No further steps are required because the patient already qualifies for hospice care"
+    },
+    "ground_truth": "B",
+    "model_answer": "The patient has a diagnosis of gastric adenocarcinoma and has refused any life-prolonging treatment, requesting only palliative care. Hospice care, a specific form of palliative care, is intended for patients who have an estimated prognosis of 6 months or less to live. Therefore, to determine his eligibility for hospice care, the patient's life expectancy without treatment should be determined. \n\nFinal Answer: B",
+    "final_choice": "B",
+    "is_correct": true
+  },
+  {
+    "question": "An investigator is studying bacterial adaptations to the environment in an infectious isolate and a noninfectious isolate of Hemophilus influenzae type B. Animals exposed to the noninfectious isolate do not develop symptoms of infection. The investigator cultivates the noninfectious isolate in a culture with lysed bacteria from the infectious isolate. Some of the animals exposed to these bacteria develop symptoms of infection. Which of the following processes is most likely responsible for the described findings?",
+    "options": {
+      "A": "Conjugation",
+      "B": "Reassortment",
+      "C": "Transformation",
+      "D": "Generalized transduction",
+      "E": "Recombination"
+    },
+    "ground_truth": "C",
+    "model_answer": "The context provided describes a scenario where noninfectious bacteria become infectious after being cultivated with lysed (broken down) infectious bacteria. This suggests that the noninfectious bacteria have taken up DNA from the lysed infectious bacteria, incorporating it into their own genetic material and thereby gaining the ability to cause infection. This process is known as transformation, where bacteria can take up fragments of environmental DNA from related species and recombine that DNA directly into their own chromosomes. \n\nFinal Answer: C. Transformation",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 29-year-old G1P0 female presents at 22 weeks gestation for her first prenatal care appointment. Physical exam demonstrates a uterine size greater than expected for her gestational age and taut, shiny skin with scattered striae on her abdomen. Ultrasound examination of the fetus reveals 2.5 L of amniotic fluid (normal 1.5-2.0 L) with an amniotic fluid index (AFI) of 34 (normal AFI 20-25). Which of the following fetal abnormalities or dysfunctions could have contributed to these abnormal ultrasound findings?",
+    "options": {
+      "A": "Renal agenesis",
+      "B": "Pulmonary hypoplasia",
+      "C": "Duodenal atresia",
+      "D": "Posterior urethral valve",
+      "E": "Polycystic kidney disease"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's ultrasound findings of an increased amount of amniotic fluid (polyhydramnios) suggest a fetal abnormality that leads to excessive fetal urination. Posterior urethral valves (option D) are a common cause of lower urinary tract obstruction in male fetuses and can lead to polyhydramnios due to an inability to excrete urine. Therefore, the final answer is D. Posterior urethral valve.",
+    "final_choice": null,
+    "is_correct": false
+  },
+  {
+    "question": "A 30-year-old man presents to his primary care physician with complaints of excessive fatigue and weakness for the last several weeks. He also complains of abdominal pain and constipation for the same duration. On further questioning, he reports that he has lost 8 pounds in the last 2 weeks. Past medical history and family history are insignificant. His temperature is 37.3\u00b0 C (99.2\u00b0 F), respirations are 21/min, pulse is 63/min, and blood pressure is 99/70 mm Hg. On physical examination, he is a tired-appearing, thin male. He has a bronze discoloration to his skin, but he denies being outside in the sun or any history of laying in tanning beds. What is the next best step in the management of this patient?",
+    "options": {
+      "A": "Administer intravenous hydrocortisone",
+      "B": "Administer intravenous fludrocortisone",
+      "C": "Start him on androgen replacement treatment",
+      "D": "Start him on both hydrocortisone and fludrocortisone therapy",
+      "E": "Order an ACTH stimulation test"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's symptoms of fatigue, weakness, abdominal pain, constipation, weight loss, and hypotension along with the physical finding of hyperpigmentation suggest primary adrenal insufficiency (Addison's disease). This condition is characterized by a deficiency in both glucocorticoids and mineralocorticoids due to destruction of the adrenal cortex. Hyperpigmentation is due to increased ACTH production as a result of loss of negative feedback inhibition. The most appropriate next step in the management of this patient is to confirm the diagnosis with an ACTH stimulation test. This test involves measuring serum cortisol levels before and after administration of synthetic ACTH. A normal response is a rise in cortisol level of at least 7-10 \u03bcg/dL. A blunted response suggests adrenal insufficiency.\n\nFinal Answer: E. Order an ACTH stimulation test",
+    "final_choice": "E",
+    "is_correct": false
+  },
+  {
+    "question": "A 39-year-old woman comes to the physician because of fever, generalized fatigue, and chills for 1 week. She has been having dull right-side abdominal pain during this period. She has nausea. She has no history of travel outside the United States. She has type 1 diabetes mellitus. Current medications include insulin and an oral contraceptive. She appears ill. Her temperature is 40\u00b0C (104\u00b0F), pulse is 118/min, and blood pressure is 106/70 mm Hg. On examination, the liver is palpated 2\u20133 cm below the right costal margin and is tender. There are decreased breath sounds over the right lung base. The remainder of the examination shows no abnormalities. Laboratory studies show:\nHemoglobin 14.1 g/dL\nLeukocyte count 17,100/mm3\nSegmented neutrophils 74%\nEosinophils 1%\nLymphocytes 20%\nMonocytes 5%\nSerum\nGlucose 79 mg/dL\nCreatinine 1.1 mg/dL\nTotal bilirubin 0.9 mg/dL\nAlkaline phosphatase 180 U/L\nAST 69 U/L\nALT 100 U/L\nA right upper quadrant ultrasound is shown. Which of the following is the most appropriate next step in management?\"",
+    "options": {
+      "A": "Discontinue the oral contraceptive",
+      "B": "Obtain hepatoiminodiacetic acid scan",
+      "C": "Perform endoscopic retrograde cholangiopancreatography",
+      "D": "Administer metronidazole",
+      "E": "Perform percutaneous drainage\n\""
+    },
+    "ground_truth": "E",
+    "model_answer": "Final Answer: E",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 66-year-old male presents to his primary care physician to discuss his increasing shortness of breathover the last 3 months. He notes that this is particularly obvious when he is mowing his lawn or climbing the stairs in his home. His past medical history is significant for hypertension that is well-controlled with lisinopril. His vital signs are as follows: T 37.6 C, HR 88, BP 136/58, RR 18, SpO2 97% RA. Physical examination is significant for an early diastolic blowing, decrescendo murmur heard best at the left sternal border, a midsystolic murmur heard best at the right upper sternal border, and a late diastolic rumbling murmur heard best at the apex on auscultation. In addition, an S3 heart sound is also present. Bounding pulses are palpated at the radial arteries bilaterally. Which of the following diagnoses is most likely in this patient?",
+    "options": {
+      "A": "Mitral regurgitation",
+      "B": "Mitral stenosis",
+      "C": "Aortic regurgitation",
+      "D": "Aortic stenosis",
+      "E": "Mitral prolapse"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's early diastolic blowing, decrescendo murmur heard best at the left sternal border is characteristic of aortic regurgitation. This is further supported by the presence of bounding pulses, which are often seen in aortic regurgitation due to the increased stroke volume. The midsystolic murmur heard best at the right upper sternal border could be due to aortic stenosis, but this is less likely given the absence of other typical findings of aortic stenosis such as a slow-rising pulse. The late diastolic rumbling murmur heard best at the apex is characteristic of mitral stenosis, but this is also less likely given the absence of other typical findings of mitral stenosis such as an opening snap. The S3 heart sound is a nonspecific finding that can be seen in various conditions including heart failure and volume overload states such as aortic regurgitation.\n\nFinal Answer: C. Aortic regurgitation",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 69-year-old male with a longstanding history of hypertension and high cholesterol presents with abdominal pain and \u2018bruising on his feet\u2019. The patient states that his symptoms started about a week ago and have steadily worsened. He describes the abdominal pain as mild to moderate, dull, and deeply localized to the umbilical region. Past medical history is significant for 2 transient ischemic attacks 6 months prior, characterized by a sudden right-sided weakness and trouble speaking but recovered fully within 30 minutes. Current medications are sildenafil 100 mg orally as needed. Patient reports a 30-pack-year smoking history and heavy alcohol use on the weekends. Review of systems is significant for decreased appetite and feeling easily full. Vitals are temperature 37\u00b0C (98.6\u00b0F), blood pressure 155/89 mm Hg, pulse 89/min, respirations 16/min, and oxygen saturation 98% on room air. On physical examination, the patient is alert and cooperative. The cardiac exam is normal. Lungs are clear to auscultation. Carotid bruit present on the right. The abdomen is soft and nontender. Bowel sounds present. A pulsatile abdominal mass is felt in the lower umbilical region. Patient\u2019s feet have the following appearance seen in the picture. Abdominal ultrasound reveals the presence of an abdominal aortic aneurysm (AAA). Contrast CT reveals a small, unruptured AAA (diameter 4.1 cm). High flow supplemental oxygen and fluid resuscitation are initiated. Morphine sulfate and metoprolol are administered. Which of the following is the best course of treatment for this patient?\n ",
+    "options": {
+      "A": "Discharge with clinical surveillance and annual ultrasound",
+      "B": "Discharge with clinical surveillance and ultrasound every 6 months",
+      "C": "Elective endovascular repair",
+      "D": "Elective open surgical repair",
+      "E": "Emergency open surgical repair"
+    },
+    "ground_truth": "E",
+    "model_answer": "Final Answer: A",
+    "final_choice": "A",
+    "is_correct": false
+  },
+  {
+    "question": "A 24-year-old Asian woman is admitted to the hospital at 30 weeks gestation with nausea, vomiting, and right upper quadrant pain. She is gravida 2 para 0 with a history of the same complaints in her last pregnancy which ended with a stillbirth at the 31st week. Her older sister had preeclampsia in both of her pregnancies. Currently, the patient is responsive but lethargic. The vital signs are as follows: blood pressure 150/90 mm Hg, heart rate 85/min, respiratory rate 15/min, and temperature 36.4\u00b0C (97.5\u00b0F). The physical examination shows jaundice, right upper quadrant tenderness, and 2+ pitting edema of the lower extremities. The patient\u2019s laboratory findings are as follows:\nErythrocyte count 2.7 million/mm3\nHemoglobin 10.1 g/dL\nHematocrit 0.56\nReticulocyte count 1.1%\nLeukocyte count 8,300/mm3\nThrombocyte count 190,000/mm3\nTotal bilirubin 5.3 mg/dL (91 \u00b5mol/L)\nConjugated bilirubin 4.2 mg/dL (72 \u00b5mol/L)\nAlanine Transaminase (ALT) 101 U/L\nAspartate Transaminase (AST) 99 U/L\nCreatinine 0.9 mg/dL (80 \u00b5mol/L)\nWhich of the following factors is a risk factor for this patient\u2019s condition?",
+    "options": {
+      "A": "The patient\u2019s age",
+      "B": "The patient\u2019s race",
+      "C": "Nulliparity",
+      "D": "History in the previous pregnancy",
+      "E": "History of preeclampsia in a sibling"
+    },
+    "ground_truth": "D",
+    "model_answer": "Final Answer: D",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "Three patients present to the pediatrician for routine well-child visits. The first child\u2019s mother reports that he seems to be breastfeeding well and voids at least eight times per day. His stools are a yellow color, and he does not seem to be straining. In the office, he can lift his head and chest when in the prone position, and he can track an object with his eyes to the midline. His hands remain fisted 50% of the time.\n\nThe second child\u2019s parents report that she is doing well at home and seems to enjoy playing with her older brother. In the office, she can roll from supine to prone and can transfer her rattle from hand to hand. She cannot yet say any words.\n\nThe third child\u2019s father reports that he is starting to explore the world around him. He has begun taking independent steps at home. In the office, he seems to recognize the name of several objects, but he cannot follow the direction to \u201cgrab the ball.\u201d All three children are assessed as developmentally normal.\n\nWhich of the following represents these patient's respective ages?",
+    "options": {
+      "A": "Ages 1 month, 4 months, and 9 months",
+      "B": "Ages 1 month, 6 months, and 9 months",
+      "C": "Ages 2 months, 4 months, and 12 months",
+      "D": "Ages 2 months, 6 months, and 9 months",
+      "E": "Ages 2 months, 6 months, and 12 months"
+    },
+    "ground_truth": "E",
+    "model_answer": "The first child is able to lift his head and chest when in the prone position and can track an object with his eyes to the midline. These are developmental milestones typically achieved by 2 months of age. The second child can roll from supine to prone and transfer objects from hand to hand, which are milestones typically achieved by 6 months of age. The third child is starting to take independent steps, a milestone typically achieved by 12 months of age. \n\nFinal Answer: E. Ages 2 months, 6 months, and 12 months.",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 70-year-old woman comes to the physician for the evaluation of back pain. For the past six days, she has had a burning pain in her upper right back and chest. She cannot recall any recent injury and has no prior history of back pain. She has a history of hypertension and gastroesophageal reflux. The patient volunteers at an animal shelter three times a week. She does not smoke or drink alcohol. Current medications include ramipril and pantoprazole. The patient appears healthy and well nourished. Her temperature is 36.9\u00b0C (98.42\u00b0F), pulse is 76/min, and blood pressure is 145/92 mm Hg. Examination shows a long erythematous rash covered with multiple clear vesicles and crusty lesions extending from her back to below her right breast. Which of the following is the most likely underlying mechanism of the disease?",
+    "options": {
+      "A": "Viral reactivation in dorsal root ganglia",
+      "B": "IgA deposits in the upper dermis",
+      "C": "Bacterial lymphatic infection of the epidermis",
+      "D": "Infestation with bloodsucking parasites",
+      "E": "Brown recluse spider envenomation"
+    },
+    "ground_truth": "A",
+    "model_answer": "The patient's presentation of a painful, vesicular rash in a dermatomal distribution is characteristic of herpes zoster (shingles), which is caused by reactivation of the varicella-zoster virus. This virus remains dormant in the dorsal root ganglia after primary infection (chickenpox), and can reactivate in times of stress or immunosuppression. Therefore, the most likely underlying mechanism of the disease in this case is viral reactivation in dorsal root ganglia.\n\nFinal Answer: A. Viral reactivation in dorsal root ganglia",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 38-year-old woman comes to the physician because of persistent diarrhea and fatigue for 1 month. She has had up to 12 watery stools per day. Sometimes she awakens at night because she has to defecate. She has abdominal bloating and cramps. She has had a 2-kg weight loss in the past month. She returned from a trip to Costa Rica 7 weeks ago. She has a history of bronchial asthma and bulimia nervosa. She works as a nurse. She does not smoke and drinks 1\u20132 beers on the weekend. Current medications include fish oil, a multivitamin, and a salbutamol inhaler. Her temperature is 36.8\u00b0C (98.2\u00b0F), pulse is 65/min, and blood pressure is 100/75 mm Hg. Examination shows dry mucous membranes. Abdominal and rectal examinations are unremarkable. Laboratory studies show:\nHematocrit 46%\nLeukocyte Count 6,500/mm3\nPlatelet Count 220,000/mm3\nSerum\nNa+ 136 mEq/L\nK+ 3.2 mEq/L\nCl- 102 mEq/L\nHCO3- 33 mEq/L\nMg2+ 3.3 mEq/L\nUrea nitrogen 14 mg/dL\nCreatinine 0.8 mg/dL\nAbdominal ultrasound shows no abnormalities. Colonoscopy shows dark colored mucosa with interspersed white spots. Biopsies of colonic mucosa are obtained and sent for pathological evaluation. Which of the following is the most likely underlying cause of this patient's symptoms?\"",
+    "options": {
+      "A": "Celiac disease",
+      "B": "Carcinoid tumor",
+      "C": "VIPoma",
+      "D": "Irritable bowel syndrome",
+      "E": "Medication abuse"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's history of travel to Costa Rica, persistent watery diarrhea, hypokalemia, and metabolic acidosis (high bicarbonate level) are suggestive of chronic infection with the protozoan Giardia lamblia. Giardia is a common cause of traveler's diarrhea and can lead to malabsorption and weight loss. The organism is resistant to chlorine and can survive in municipal water supplies, making it a common infection in travelers returning from camping in the United States and Canada and from travel to developing countries. The diagnosis is confirmed by identification of cysts or trophozoites on stool examination or by antigen detection in stool. The finding of dark colored mucosa with interspersed white spots on colonoscopy is not typical for giardiasis, but the small bowel is the primary site of infection and would not be visualized on colonoscopy. Treatment is with an antimicrobial such as metronidazole. However, none of the options provided in the question are related to Giardia infection. Based on the given options, the patient's symptoms of watery diarrhea, hypokalemia, and metabolic acidosis are most suggestive of a VIPoma (option C), a neuroendocrine tumor that secretes vasoactive intestinal peptide, leading to large volume watery diarrhea, hypokalemia, and achlorhydria (WDHA syndrome, or pancreatic cholera). However, this is a rare tumor and would not be the most likely diagnosis in a real-world setting.\n\nFinal Answer: C.",
+    "final_choice": "C",
+    "is_correct": false
+  },
+  {
+    "question": "A 64-year-old man presents to the clinic with easy fatigability and breathlessness when climbing stairs for the last 2 weeks. He also mentions that he occasionally has bouts of cough at night after about 2\u20133 hours of sleep which is relieved when he sits upright. He denies shortness of breath at rest, palpitations, and loss of consciousness. He has had hypertension for the last 20 years and is on antihypertensive medications. On physical examination, his temperature is 36.9\u00b0C (98.4\u00b0F), pulse is 104/min, blood pressure is 122/82 mm Hg, and respirations are 18/min. Chest auscultation reveals crackles over the lung bases bilaterally. Examination of his abdomen reveals mildly tender hepatomegaly. Laboratory investigation results include a hemoglobin of 14.8 g/dL (9.18 mmol/L) and an elevated serum B-type natriuretic peptide. His two-dimensional echocardiogram reveals an enlarged left atrium and an ejection fraction of 55%. Which of the following novel drugs is most likely to benefit the patient in addition to valsartan?",
+    "options": {
+      "A": "Etanercept",
+      "B": "Ivabradine",
+      "C": "Moxonidine",
+      "D": "Sacubitril",
+      "E": "Aliskiren"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's symptoms of breathlessness on exertion and paroxysmal nocturnal dyspnea, along with physical findings of crackles over the lung bases and hepatomegaly, suggest a diagnosis of heart failure. The elevated serum B-type natriuretic peptide and echocardiographic findings of an enlarged left atrium further support this diagnosis. The patient's ejection fraction is preserved, indicating that his heart failure is likely due to diastolic dysfunction. Valsartan is an angiotensin receptor blocker that is commonly used in the treatment of heart failure. Sacubitril is a neprilysin inhibitor that, when combined with valsartan (as in the combination drug sacubitril/valsartan), has been shown to reduce morbidity and mortality in patients with heart failure with reduced ejection fraction. However, its benefits in heart failure with preserved ejection fraction, as in this patient, are uncertain. Therefore, the best answer is:\n\nFinal Answer: D. Sacubitril",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 3-year-old boy is brought to the emergency room by his mother after she found him somnolent at home next to multiple open pill bottles. The boy had seemingly opened several different pill bottles that were in a cabinet in his parent\u2019s bathroom. The mother has brought the empty bottles to the emergency room, and they include aspirin, metoprolol, acetaminophen, levothyroxine, and lorazepam. The boy has no past medical history and takes no medications. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 110/65 mmHg, pulse is 85/min, and respirations are 28/min. On exam, the boy is lethargic but responsive. He appears to be grasping at his ears and swaying from side-to-side when attempting to ambulate. He vomited once in the emergency room. Which of the following arterial blood gas readings is most likely to be found in this patient?",
+    "options": {
+      "A": "pH 7.29, PCO2 47 mmHg, and HCO3- 22 mEq/L",
+      "B": "pH 7.35, PCO2 29 mmHg, and HCO3- 15 mEq/L",
+      "C": "pH 7.36, PCO2 22 mmHg, and HCO3- 16 mEq/L",
+      "D": "pH 7.47, PCO2 41 mmHg, and HCO3- 29 mEq/L",
+      "E": "pH 7.48, PCO2 24 mmHg, and HCO3- 25 mEq/L"
+    },
+    "ground_truth": "C",
+    "model_answer": "The boy's symptoms of lethargy, vomiting, and ear-grasping/swaying (which may indicate tinnitus and vertigo) are suggestive of salicylate (aspirin) toxicity. Salicylates stimulate the respiratory center, leading to hyperventilation and primary respiratory alkalosis. However, salicylates also uncouple oxidative phosphorylation, leading to increased metabolic rate, heat production, and lactic acid production, which can cause an anion gap metabolic acidosis. Early in the course of toxicity, the respiratory alkalosis may predominate. As toxicity progresses, the metabolic acidosis becomes more prominent. However, the two processes often coexist, leading to a wide anion gap and near-normal pH. Therefore, the arterial blood gas of this patient is likely to show evidence of both a primary respiratory alkalosis (low PCO2) and a primary metabolic acidosis (low HCO3-).\n\nFinal Answer: B. pH 7.35, PCO2 29 mmHg, and HCO3- 15 mEq/L",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 48-year-old female presents with an enlargement of her anterior neck which made swallowing very difficult for 2 weeks now. She has had constipation for the past 6 weeks and overall fatigue. She also had heavy menstrual bleeding; and often feels extremely cold at home. On the other hand, she has well-controlled asthma and spring allergies. On examination, the thyroid is stony hard, tender and asymmetrically enlarged. There is also pain associated with swallowing. Laboratory studies show a serum T4 level of 4.4 \u03bcg/dL and a TSH level of 6.3 mU/L. A radionuclide thyroid scanning indicates that the nodule has low radioactive iodine uptake. Which of the following is the most likely pathology to be found in this patient?",
+    "options": {
+      "A": "Anaplastic carcinoma",
+      "B": "Medullary carcinoma",
+      "C": "Granulomatous thyroiditis",
+      "D": "Reidel thyroiditis",
+      "E": "Silent thyroiditis"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's symptoms of constipation, fatigue, heavy menstrual bleeding, and cold intolerance are suggestive of hypothyroidism, which is supported by the lab results showing a low T4 level and a high TSH level. The physical exam findings of a hard, tender, and asymmetrically enlarged thyroid gland along with pain associated with swallowing are characteristic of Riedel thyroiditis, a rare form of chronic inflammation that leads to a fibrosis that extends into adjacent neck structures. This condition can cause hypothyroidism and difficulty swallowing due to the fibrosis. Therefore, the most likely pathology in this patient is Riedel thyroiditis.\n\nFinal Answer: D. Riedel thyroiditis",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 33-year-old nurse is referred to an infectious disease specialist after she exhibited a PPD skin test with 17 mm of induration. She denies any cough, shortness of breath, hemoptysis, weight loss, fatigue, fevers, or night sweats over the last several months. Her temperature is 97.0\u00b0F (36.1\u00b0C), blood pressure is 120/81 mmHg, pulse is 82/min, respirations are 15/min, and oxygen saturation is 98% on room air. An initial chest radiograph is unremarkable. Which of the following is the most appropriate management of this patient?",
+    "options": {
+      "A": "Isoniazid",
+      "B": "No management indicated",
+      "C": "Quantiferon gold",
+      "D": "Repeat PPD in 1 week",
+      "E": "Rifampin, isoniazid, pyrazinamide, and ethambutol"
+    },
+    "ground_truth": "A",
+    "model_answer": "This patient's positive PPD skin test (induration >15 mm) and her occupation as a healthcare worker suggest latent tuberculosis infection (LTBI). LTBI is characterized by a positive tuberculosis (TB) screening test (eg, PPD, interferon-\u03b3 release assay), no symptoms of active disease, and no radiographic evidence of active disease. The goal of treating LTBI is to prevent progression to active TB disease. The preferred regimen for treatment of LTBI in the United States is 9 months of isoniazid.\n\nFinal Answer: A. Isoniazid",
+    "final_choice": "A",
+    "is_correct": true
+  },
+  {
+    "question": "A 35-year-old man comes to the physician because of itchy, watery eyes for the past week. He has also been sneezing multiple times a day during this period. He had a similar episode 1 year ago around springtime. He has iron deficiency anemia and ankylosing spondylitis. Current medications include ferrous sulfate, artificial tear drops, and indomethacin. He works as an elementary school teacher. His vital signs are within normal limits. Visual acuity is 20/20 without correction. Physical examination shows bilateral conjunctival injection with watery discharge. The pupils are 3 mm, equal, and reactive to light. Examination of the anterior chamber of the eye is unremarkable. Which of the following is the most appropriate treatment?",
+    "options": {
+      "A": "Erythromycin ointment",
+      "B": "Ketotifen eye drops",
+      "C": "Warm compresses",
+      "D": "Fluorometholone eye drops",
+      "E": "Latanoprost eye drops"
+    },
+    "ground_truth": "B",
+    "model_answer": "The patient's symptoms of itchy, watery eyes and sneezing that occur seasonally are suggestive of allergic conjunctivitis. Allergic conjunctivitis is an IgE-mediated hypersensitivity reaction to allergens such as pollen, dust mites, and animal dander. Symptoms include itching, tearing, redness, and mild eyelid swelling. The condition is often associated with other atopic diseases (eg, allergic rhinitis, asthma, atopic dermatitis). Treatment involves avoidance of the allergen if possible and use of antihistamines for symptom relief. Ketotifen is a topical antihistamine that is effective for the treatment of allergic conjunctivitis.\n\nFinal Answer: B. Ketotifen eye drops.",
+    "final_choice": "B",
+    "is_correct": true
+  },
+  {
+    "question": "A 27-year-old HIV positive female gave birth to a 7lb 2oz (3.2 kg) baby girl. The obstetrician is worried that the child may have been infected due to the mother's haphazard use of her anti-retroviral medications. Which of the following assays would a hospital use detect the genetic material of HIV if the child had been infected?",
+    "options": {
+      "A": "Enzyme-linked immunosorbent assay (ELISA)",
+      "B": "Western blot",
+      "C": "Rapid HIV antibody test",
+      "D": "Polymerase chain reaction",
+      "E": "Southern blot"
+    },
+    "ground_truth": "D",
+    "model_answer": "The best test to detect the genetic material of HIV in a newborn from an HIV positive mother would be the Polymerase Chain Reaction (PCR). This test can detect the presence of HIV RNA or DNA in the blood, which would indicate an active infection. ELISA and Western blot tests detect antibodies to HIV, which may not be present in a newborn or may be maternal antibodies that have crossed the placenta, not indicating an active infection in the child. Rapid HIV antibody tests also detect antibodies and have the same limitations. Southern blot is a method used in molecular biology for detection of a specific DNA sequence in DNA samples, but it is not typically used for HIV testing in a clinical setting.\n\nFinal Answer: D. Polymerase chain reaction",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 12-year-old girl is brought to your psychiatry office by her parents, who are concerned that she has not made any friends since starting middle school last year. The girl tells you that she gets nervous around other children, as she cannot tell what they are feeling, when they are joking, or what she has in common with them. Her teachers describe her as \u201ceasily distracted\u201d and \u201ceasily upset by change.\u201d When asked about her hobbies and interests, she states that \u201cmarine biology\u201d is her only interest and gives you a 15-minute unsolicited explanation of how to identify different penguin species. Mental status exam is notable for intense eye contact, flat affect, and concrete thought process. Which of the following is true regarding this child\u2019s disorder?",
+    "options": {
+      "A": "Boys are more commonly affected than girls",
+      "B": "Impaired attention is a key feature of the disorder",
+      "C": "Intellectual disability is a key feature of the disorder",
+      "D": "It is usually associated with a family history of schizophrenia",
+      "E": "Typical age of onset is 3-5 years of age"
+    },
+    "ground_truth": "A",
+    "model_answer": "The girl's symptoms of social difficulties, intense interest in a specific topic, and impaired nonverbal communication (eg, intense eye contact, flat affect) suggest a diagnosis of autism spectrum disorder (ASD). ASD is a neurodevelopmental disorder characterized by impaired social communication and interaction along with restricted, repetitive patterns of behavior, interests, or activities. Symptoms must be present in the early developmental period, but may not fully manifest until social demands exceed limited capacities. Although the girl's distractibility could be interpreted as impaired attention, this is not a key feature of ASD. Instead, the distractibility may be due to the social anxiety that many patients with ASD experience. Intellectual disability is common in ASD but is not a necessary feature for diagnosis. ASD is more common in boys, but girls are often diagnosed later due to differences in symptom presentation. The typical age of onset for ASD is in early childhood, usually by age 3.\n\nFinal Answer: E.",
+    "final_choice": "E",
+    "is_correct": false
+  },
+  {
+    "question": "A 28-year-old woman comes to the obstetrics and gynecology clinic because she has been unsuccessfully trying to conceive with her husband for the last 2 years. He has had 2 children from a previous marriage and has been tested for causes of male infertility. She has had prior abdominal surgery as well as a family history of endocrine abnormalities. Based on this history, a panel of tests are obtained and treatment is started. This treatment will be administered intermittently one week before her normal menstrual cycle. If the most likely drug prescribed in this case was administered in a different manner, which of the following conditions may also be treated by this drug?",
+    "options": {
+      "A": "Diabetes",
+      "B": "Parkinson disease",
+      "C": "Polycystic ovarian syndrome",
+      "D": "Premature labor",
+      "E": "Prostate cancer"
+    },
+    "ground_truth": "E",
+    "model_answer": "Final Answer: C. Polycystic ovarian syndrome",
+    "final_choice": "C",
+    "is_correct": false
+  },
+  {
+    "question": "Accurate and rapid identification of individuals with tuberculosis (TB) is crucial to accomplishing the goal of the World Health Organization (WHO) to eliminate this disease. One of the key strategies for the detection of TB is the use of tuberculin skin testing as a globally pertinent screening method, due to its low cost and technical simplicity. A study from Brazil demonstrated 76.7% accuracy, 67.9% sensitivity, 84.4% specificity, 79.1% positive predictive value, and 75% negative predictive value when using 5-mm skin elevation as a threshold, or cut-off, point for the screening test (following intradermal injection). Lowering the cut-off point to 4 mm would also result in an increase in which test property?",
+    "options": {
+      "A": "Convergent validity",
+      "B": "Discriminant validity",
+      "C": "Positive predictive value",
+      "D": "Negative predictive value",
+      "E": "Test specificity"
+    },
+    "ground_truth": "D",
+    "model_answer": "Lowering the cut-off point for a positive test result (from 5 mm to 4 mm) would increase the sensitivity of the test. This is because more people would test positive (including those with the disease), thus reducing the chance of false negatives. However, the question does not provide an option for increased sensitivity. Among the given options, lowering the cut-off point would likely increase the negative predictive value. This is because with a lower cut-off, fewer people would test negative, and those who do are more likely to truly not have the disease. Therefore, the negative predictive value, or the probability that subjects with a negative screening test truly do not have the disease, would increase.\n\nFinal Answer: D. Negative predictive value",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "In a small town with a population of 10,000 people, the prevalence of alcohol use is estimated to be 30%. A study is done with a null hypothesis that there is no association between alcohol use and gastro-oesophageal reflux disease (GERD). The data obtained shows, of the 200 alcoholics who were followed-up, 30 developed GERD; and out of the 400 non-alcoholics, 30 developed GERD. What fraction of GERD can be prevented in the general population if alcohol is no longer consumed in this town?",
+    "options": {
+      "A": "45/195",
+      "B": "39/400",
+      "C": "30/400",
+      "D": "(30/200) / (30/400)",
+      "E": "30/200"
+    },
+    "ground_truth": "A",
+    "model_answer": "The fraction of GERD that can be prevented in the general population if alcohol is no longer consumed in this town can be calculated by determining the population attributable risk (PAR). PAR is calculated as follows: PAR = Pd * (RR - 1) / RR, where Pd is the proportion of the population with the disease who are exposed (in this case, alcoholics), and RR is the relative risk. \n\nIn this case, Pd = 30/60 = 0.5 (since 30 out of 60 people with GERD are alcoholics) and RR = (30/200) / (30/400) = 2. \n\nSo, PAR = 0.5 * (2 - 1) / 2 = 0.25 or 25%. \n\nHowever, this option is not available in the given choices. \n\nTherefore, the best answer is D. (30/200) / (30/400) which is the calculation for the relative risk (RR), not the PAR, but it's the closest to the correct calculation based on the available options.\n\nFinal Answer: D.",
+    "final_choice": "D",
+    "is_correct": false
+  },
+  {
+    "question": "A 39-year-old African-American woman presents to the emergency room with hip pain. She has a past medical history significant for sarcoidosis which was recently diagnosed 6 months ago and is currently being treated. She reports that the pain started 2 weeks ago and is localized to the left hip and groin. The pain has been getting progressively more intense. Her temperature is 98.1\u00b0F (36.7\u00b0C), blood pressure is 122/78 mm Hg, pulse is 80/min, respirations are 13/min, and oxygen saturation is 98% on room air. Physical exam is notable for pain with manipulation without restriction of range of motion of the hip. Which of the following is the most sensitive test for this condition?",
+    "options": {
+      "A": "CT of the hip",
+      "B": "MRI of the hip",
+      "C": "Radiograph of the hip",
+      "D": "Radionuclide scan of the hip",
+      "E": "Ultrasound of the hip"
+    },
+    "ground_truth": "B",
+    "model_answer": "Final Answer: B",
+    "final_choice": "B",
+    "is_correct": true
+  },
+  {
+    "question": "A 49-year-old man comes to the physician because he has had multiple falls and multiple episodes of dizziness over the past 6 weeks. There is no personal or family history of serious illness. He drinks one pint of rum daily. He works as a foreman in a factory that produces industrial solvents. He is alert and oriented to time, place, and person. His temperature is 36.7\u00b0C (98.1\u00b0F), pulse is 88/min, and blood pressure is 108/70 mm Hg. Examination shows a wide-based gait. The patient is unable to stand with his feet together without support. There is a coarse tremor of the hands when he is asked to grab a pen. Muscle strength and tone are normal in all extremities. Sensation to pain, vibration, and position is intact bilaterally. Rapid alternating movements of the hands is impaired. Mental status examination shows no abnormalities. Which of the following is the most likely cause of this patient's condition?",
+    "options": {
+      "A": "Korsakoff syndrome",
+      "B": "Subacute combined degeneration",
+      "C": "Methanol poisoning",
+      "D": "Cerebellar degeneration",
+      "E": "Wernicke's encephalopathy"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's daily alcohol consumption, gait ataxia, and impaired rapid alternating movements suggest a diagnosis of cerebellar degeneration. Chronic alcohol abuse is a common cause of cerebellar degeneration. The cerebellum is particularly vulnerable to the toxic effects of alcohol, and damage can occur even in the absence of thiamine deficiency and Wernicke encephalopathy. Patients typically present with a wide-based, unsteady gait and impaired coordination that can affect the upper extremities. In contrast to conditions that cause spasticity and weakness (eg, subacute combined degeneration due to vitamin B12 deficiency), muscle strength and tone are typically normal in cerebellar disease. Sensation is also usually intact, as seen in this patient. \n\nFinal Answer: D. Cerebellar degeneration",
+    "final_choice": "D",
+    "is_correct": true
+  },
+  {
+    "question": "A 23-year-old woman is seen by her primary care physician for fatigue. She says that she has always felt a little short of breath compared to her friends; however, she did not think that it was abnormal until she started trying a new exercise regimen. On physical exam, she is found to have mild conjunctival pallor and a peripheral blood smear is obtained showing echinocytes but no intracellular accumulations. Upon further questioning, she recalls that several relatives have had similar issues with fatigue and pallor in the past. Which of the following is true about the rate limiting enzyme of the biochemical pathway that is affected by this patient's most likely condition?",
+    "options": {
+      "A": "It is stimulated by ATP",
+      "B": "It is stimulated by citrate",
+      "C": "It is inhibited by protein kinase A activity",
+      "D": "It is inhibited by fructose-2,6-bisphosphate",
+      "E": "It is inhibited by AMP"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's symptoms of fatigue, shortness of breath, and pallor suggest anemia. The presence of echinocytes (spur cells) on peripheral blood smear is characteristic of pyruvate kinase deficiency, an autosomal recessive condition that results in hemolytic anemia. Pyruvate kinase is the rate-limiting enzyme in the glycolytic pathway, and its deficiency leads to a decrease in ATP production, causing instability of the red blood cell membrane and resulting in hemolysis. Pyruvate kinase is allosterically activated by fructose-1,6-bisphosphate and inhibited by ATP. Therefore, the correct answer is A. It is stimulated by ATP.\n\nFinal Answer: A.",
+    "final_choice": "A",
+    "is_correct": false
+  },
+  {
+    "question": "A 25-year-old African American man presents to his primary care provider for routine blood work. He is a well-known case of sickle cell disease treated with hydroxyurea and tramadol as needed for pain. He does not smoke or drink alcohol. The patient asks if his disease can adversely affect his kidneys because his friend was recently diagnosed with end-stage renal failure. Which of the following is a renal complication of sickle cell disease?",
+    "options": {
+      "A": "Transitional cell carcinoma",
+      "B": "Membranous glomerulonephritis",
+      "C": "Proximal renal tubular acidosis",
+      "D": "Impaired urine diluting ability",
+      "E": "Impaired urine concentration ability"
+    },
+    "ground_truth": "E",
+    "model_answer": "Sickle cell disease can lead to various renal complications due to persistent vasoocclusive disease in the kidney. One of the early manifestations of renal involvement in sickle cell disease is impaired urine concentration ability due to tubular injury. This can lead to polyuria and may occur years before significant nephron loss and proteinuria. \n\nFinal Answer: E. Impaired urine concentration ability",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 48-year-old woman comes to the emergency department because of a 1-day history of fever, vomiting, and abdominal pain. Two weeks ago, while visiting Guatemala, she had an emergency appendectomy under general inhalational anesthesia. During the surgery, she received a transfusion of 1 unit of packed red blood cells. Her temperature is 38.3\u00b0C (100.9\u00b0F) and blood pressure is 138/76 mm Hg. Examination shows jaundice and tender hepatomegaly. Serum studies show:\nAlkaline phosphatase 102 U/L\nAspartate aminotransferase 760 U/L\nBilirubin\nTotal 3.8 mg/dL\nDirect 3.1 mg/dL\nAnti-HAV IgG positive\nAnti-HAV IgM negative\nAnti-HBs positive\nHBsAg negative\nAnti-HCV antibodies negative\nAbdominal ultrasonography shows an enlarged liver. A biopsy of the liver shows massive centrilobular necrosis. Which of the following is the most likely underlying cause of this patient's condition?\"",
+    "options": {
+      "A": "Acalculous inflammation of the gallbladder",
+      "B": "Virus-mediated hepatocellular injury",
+      "C": "Trauma to the bile duct",
+      "D": "Adverse effect of anesthetic",
+      "E": "Gram-negative bacteria in the bloodstream"
+    },
+    "ground_truth": "D",
+    "model_answer": "The patient's recent history of surgery and blood transfusion in a developing country, along with her clinical presentation of fever, vomiting, abdominal pain, jaundice, and hepatomegaly, suggest acute hepatitis. The liver biopsy showing massive centrilobular necrosis is consistent with acute viral hepatitis. The negative anti-HAV IgM rules out acute hepatitis A. The positive anti-HBs and negative HBsAg suggest immunity to hepatitis B, likely from vaccination. The negative anti-HCV antibodies rule out hepatitis C. Therefore, the most likely cause of this patient's acute hepatitis is another form of viral hepatitis, such as hepatitis E or D, which are not routinely tested for. Hepatitis E is common in developing countries and can be severe. Hepatitis D only occurs in individuals with hepatitis B, which this patient is immune to. Therefore, the most likely cause of this patient's condition is virus-mediated hepatocellular injury.\n\nFinal Answer: B.",
+    "final_choice": "B",
+    "is_correct": false
+  },
+  {
+    "question": "A 60-year-old man with a long-standing history of chronic hepatitis C infection comes to the emergency department because of abdominal distention and scleral icterus for the past month. His heart rate is 76/min, respiratory rate is 14/min, temperature is 36.0\u00b0C (96.8\u00b0F), and blood pressure is 110/86 mm Hg. Physical examination show signs suggestive of liver cirrhosis. Which of the following signs is a direct result of hyperestrinism in cirrhotic patients?",
+    "options": {
+      "A": "Coagulopathy",
+      "B": "Gynecomastia",
+      "C": "Jaundice",
+      "D": "Lower limb swelling",
+      "E": "Caput medusae"
+    },
+    "ground_truth": "B",
+    "model_answer": "Hyperestrinism is a condition characterized by an excess of estrogen in the body. In men, this can lead to gynecomastia, or enlargement of the breast tissue. This condition is often seen in patients with liver cirrhosis, as the liver is responsible for metabolizing hormones, including estrogen. When the liver is damaged, it may not be able to properly metabolize these hormones, leading to an excess of estrogen in the body.\n\nFinal Answer: B. Gynecomastia",
+    "final_choice": "B",
+    "is_correct": true
+  },
+  {
+    "question": "A 32-year-old female is brought to the emergency room by her friend for acute onset abdominal pain. She states that she was in a kickboxing class when she suddenly developed left-sided abdominal pain. Her past medical history is significant for chlamydia. She is currently sexually active and does not use contraception. Her menstrual periods occur regularly every 30 days. Her last menstrual period ended 2 days ago. The patient\u2019s temperature is 99\u00b0F (37.2\u00b0C), blood pressure is 110/68 mmHg, pulse is 88/min, and respirations are 14/min with an oxygen saturation of 98% on room air. On physical exam, there is left-sided, lower abdominal tenderness and guarding. Pelvic examination is notable for clear mucous in the vaginal introitus and tenderness of the left adnexa. A pelvic ultrasound with Doppler reveals a large amount of fluid in the rectouterine pouch. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Ectopic pregnancy",
+      "B": "Mittelschmerz",
+      "C": "Ovarian torsion",
+      "D": "Pelvic inflammatory disease",
+      "E": "Ruptured ovarian cyst"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's sudden onset of severe pain during physical activity, adnexal tenderness on examination, and ultrasound findings of a large amount of fluid in the rectouterine pouch are suggestive of a ruptured ovarian cyst. Ovarian cysts can rupture spontaneously or due to physical activity, causing sudden, severe pain. The fluid from the ruptured cyst can irritate the peritoneum, causing tenderness and guarding. The presence of fluid in the rectouterine pouch on ultrasound is consistent with this diagnosis.\n\nFinal Answer: E. Ruptured ovarian cyst",
+    "final_choice": "E",
+    "is_correct": true
+  },
+  {
+    "question": "A 35-year-old woman presents with an unsteady and broad-based gait, dysmetria, and intention tremor in the distal upper extremities. Her past medical history is relevant for depression, personality changes, and declining work performance, for which she has been put on leave from her current job as an elementary school teacher. On physical examination, patient has dysarthria, dystonia, and an ataxic gait. Ophthalmologic examination reveals multi-colored irises with concentric rings around the periphery (findings shown in the photo). Sensation and motor functions are preserved. Which of the following would you expect to be abnormally accumulated in this patient\u2019s tissues?",
+    "options": {
+      "A": "Arsenic",
+      "B": "Iron",
+      "C": "Copper",
+      "D": "Lead",
+      "E": "Mercury"
+    },
+    "ground_truth": "C",
+    "model_answer": "The patient's symptoms of unsteady gait, dysmetria, intention tremor, personality changes, and dystonia, along with the presence of concentric rings around the periphery of the iris (known as Kayser-Fleischer rings), are suggestive of Wilson's disease. Wilson's disease is a genetic disorder characterized by the accumulation of copper in various tissues, including the liver and brain, leading to neurological and psychiatric symptoms. Therefore, copper would be expected to be abnormally accumulated in this patient's tissues.\n\nFinal Answer: C. Copper",
+    "final_choice": "C",
+    "is_correct": true
+  },
+  {
+    "question": "A 61-year-old man comes to the physician with several months of sharp, shooting pain in both legs. Twenty years ago, he had a painless ulcer on his penis that resolved without treatment. He has no history of serious illness. Examination shows small pupils that constrict with accommodation but do not react to light. Sensation to pinprick and light touch is decreased over the distal lower extremities. Patellar reflexes are absent bilaterally. His gait is unsteady and broad-based. This patient is at increased risk for which of the following complications?",
+    "options": {
+      "A": "Atrioventricular block",
+      "B": "Mitral valve regurgitation",
+      "C": "Penile squamous cell carcinoma",
+      "D": "Inflammatory polyarthritis",
+      "E": "Thoracic aortic aneurysm"
+    },
+    "ground_truth": "E",
+    "model_answer": "The patient's history of a painless genital ulcer, Argyll Robertson pupils (small pupils that accommodate but do not react to light), and sensory ataxia with absent reflexes suggest tertiary syphilis, specifically tabes dorsalis. This is a form of neurosyphilis that affects the dorsal columns and roots of the spinal cord, leading to impaired proprioception and vibratory sense. The most common cardiovascular complication of syphilis is syphilitic aortitis, which can lead to thoracic aortic aneurysm. \n\nFinal Answer: E. Thoracic aortic aneurysm",
+    "final_choice": "E",
+    "is_correct": true
+  }
+]

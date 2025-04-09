@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# Vector DB
+chroma_db/
+
+# Virtual env (if applicable)
+venv/
+.env/
