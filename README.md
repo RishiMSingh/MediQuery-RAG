@@ -1,1 +1,1 @@
-# FinQuery
+# MediQuery-Rag
